@@ -1,0 +1,72 @@
+{
+	"@metadata": {
+		"authors": [
+			"12imom",
+			"Patriot Kur",
+			"Гусейн"
+		]
+	},
+	"language-button-text": "Bahand bə Vikipedia ıştı zıvonədə",
+	"terms": "Çı istifodə ğaydon",
+	"Privacy Policy": "Məxfiəti Siyosət",
+	"search-input-button": "Bınəv",
+	"search-input-label": "Bınəv bə Vikipediadə",
+	"wiki": {
+		"name": "Vikipedia",
+		"slogan": "Ozodə Ensiklopediya",
+		"entries": "məğolon"
+	},
+	"wiktionary": {
+		"name": "Vikilüğət",
+		"slogan": "Ozodə lüğət",
+		"entries": "мәғолон"
+	},
+	"wikibooks": {
+		"name": "Vikikitob",
+		"slogan": "Ozodə mətnkitobon",
+		"entries": "səhifon"
+	},
+	"wikinews": {
+		"name": "Vikixəbəon",
+		"slogan": "Mənbədə ozodə xəbəon",
+		"entries": "məğolon"
+	},
+	"wikiquote": {
+		"name": "Vikisitot",
+		"slogan": "Bepülə təklifi məcmuən",
+		"entries": "məğolon"
+	},
+	"wikisource": {
+		"name": "Vikisəvon",
+		"slogan": "Ozodə kitobxonə"
+	},
+	"wikiversity": {
+		"name": "Vikiversitet",
+		"slogan": "Bepülə kursi materialon",
+		"entries": "umutənin səvonon"
+	},
+	"wikivoyage": {
+		"name": "Vikisəyohət",
+		"slogan": "Ozodə səyahohəti bələdkor"
+	},
+	"commons": {
+		"name": "Vikianbo",
+		"slogan": "Ozodə kardə bıə şəklon iən ve həni"
+	},
+	"wikispecies": {
+		"name": "Vikitip",
+		"slogan": "Ozodə kataloği tipon"
+	},
+	"wikidata": {
+		"name": "Vikiməlumot",
+		"slogan": "Ozodə zınəy bazə"
+	},
+	"mediawiki": {
+		"name": "MediaWiki",
+		"slogan": "Ozodə iən ojə viki tətbığ"
+	},
+	"metawiki": {
+		"name": "Meta-Viki",
+		"slogan": "İcmai kordinəsiə bıə iən sənədin kardə bıə"
+	}
+}

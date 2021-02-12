@@ -1,0 +1,70 @@
+{
+	"@metadata": {
+		"authors": [
+			"Андрей Саг."
+		]
+	},
+	"language-button-text": "Википедияны пос тілніӊ хығыраӊар",
+	"app-links": {
+		"url": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications"
+	},
+	"Privacy Policy": "Чазыттығ политика",
+	"search-input-button": "Тілирге",
+	"search-input-label": "Википедияда тілирге",
+	"wiki": {
+		"name": "Википедия",
+		"slogan": "Пос энциклопедия",
+		"entries": "статьялар"
+	},
+	"wiktionary": {
+		"name": "Викисӧстік",
+		"slogan": "Пос сӧстік",
+		"entries": "статьялар"
+	},
+	"wikibooks": {
+		"name": "Викикинде",
+		"slogan": "Пос кинделер",
+		"entries": "страницалар"
+	},
+	"wikinews": {
+		"name": "Викихабарлар",
+		"slogan": "Пос хабарлар",
+		"entries": "статьялар"
+	},
+	"wikiquote": {
+		"name": "Викицитатник",
+		"slogan": "Цитаталардың пос чыындызы",
+		"entries": "статьялар"
+	},
+	"wikisource": {
+		"name": "Викитека",
+		"slogan": "Пос библиотека"
+	},
+	"wikiversity": {
+		"name": "Викиверситет",
+		"slogan": "Пос ӱгредіг курстар",
+		"entries": "Ӱгредіг ресурстар"
+	},
+	"wikivoyage": {
+		"name": "Викигид",
+		"slogan": "Пос чорых гид"
+	},
+	"commons": {
+		"name": "Викисклад",
+		"slogan": "Пос фотографиялар паза аның пасха"
+	},
+	"wikispecies": {
+		"name": "Викикӧрімнары",
+		"slogan": "Пос кӧрімнарының каталогы"
+	},
+	"wikidata": {
+		"name": "Викиіскіріг",
+		"slogan": "Пос пілістерінің базазы"
+	},
+	"mediawiki": {
+		"name": "MediaWiki"
+	},
+	"metawiki": {
+		"name": "Мета-вики"
+	}
+}

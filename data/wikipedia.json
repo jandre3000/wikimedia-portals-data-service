@@ -1,0 +1,5661 @@
+{
+  "wiki": [
+    {
+      "code": "ab",
+      "dbname": "abwiki",
+      "url": "https://ab.wikipedia.org",
+      "langName": "Аҧсшәа",
+      "dir": "ltr",
+      "views": 98883
+    },
+    {
+      "code": "ace",
+      "dbname": "acewiki",
+      "url": "https://ace.wikipedia.org",
+      "langName": "Acèh",
+      "dir": "ltr",
+      "views": 100324
+    },
+    {
+      "code": "ady",
+      "dbname": "adywiki",
+      "url": "https://ady.wikipedia.org",
+      "langName": "адыгабзэ",
+      "dir": "ltr",
+      "views": 43210
+    },
+    {
+      "code": "af",
+      "dbname": "afwiki",
+      "url": "https://af.wikipedia.org",
+      "langName": "Afrikaans",
+      "dir": "ltr",
+      "views": 2264823
+    },
+    {
+      "code": "ak",
+      "dbname": "akwiki",
+      "url": "https://ak.wikipedia.org",
+      "langName": "Akan",
+      "dir": "ltr",
+      "views": 50596
+    },
+    {
+      "code": "als",
+      "dbname": "alswiki",
+      "url": "https://als.wikipedia.org",
+      "langName": "Alemannisch",
+      "dir": "ltr",
+      "views": 471608
+    },
+    {
+      "code": "alt",
+      "dbname": "altwiki",
+      "url": "https://alt.wikipedia.org",
+      "langName": "алтай тил",
+      "dir": "ltr",
+      "views": 28231
+    },
+    {
+      "code": "am",
+      "dbname": "amwiki",
+      "url": "https://am.wikipedia.org",
+      "langName": "አማርኛ",
+      "dir": "ltr",
+      "views": 650031
+    },
+    {
+      "code": "an",
+      "dbname": "anwiki",
+      "url": "https://an.wikipedia.org",
+      "langName": "aragonés",
+      "dir": "ltr",
+      "views": 419523
+    },
+    {
+      "code": "ang",
+      "dbname": "angwiki",
+      "url": "https://ang.wikipedia.org",
+      "langName": "Ænglisc",
+      "dir": "ltr",
+      "views": 112624
+    },
+    {
+      "code": "ar",
+      "dbname": "arwiki",
+      "url": "https://ar.wikipedia.org",
+      "langName": "العربية",
+      "dir": "rtl",
+      "views": 239474933
+    },
+    {
+      "code": "arc",
+      "dbname": "arcwiki",
+      "url": "https://arc.wikipedia.org",
+      "langName": "ܐܪܡܝܐ",
+      "dir": "rtl",
+      "views": 60365
+    },
+    {
+      "code": "ary",
+      "dbname": "arywiki",
+      "url": "https://ary.wikipedia.org",
+      "langName": "الدارجة",
+      "dir": "rtl",
+      "views": 91473
+    },
+    {
+      "code": "arz",
+      "dbname": "arzwiki",
+      "url": "https://arz.wikipedia.org",
+      "langName": "مصرى",
+      "dir": "rtl",
+      "views": 3174542
+    },
+    {
+      "code": "as",
+      "dbname": "aswiki",
+      "url": "https://as.wikipedia.org",
+      "langName": "অসমীয়া",
+      "dir": "ltr",
+      "views": 639558
+    },
+    {
+      "code": "ast",
+      "dbname": "astwiki",
+      "url": "https://ast.wikipedia.org",
+      "langName": "asturianu",
+      "dir": "ltr",
+      "views": 1369618
+    },
+    {
+      "code": "atj",
+      "dbname": "atjwiki",
+      "url": "https://atj.wikipedia.org",
+      "langName": "Atikamekw",
+      "dir": "ltr",
+      "views": 27370
+    },
+    {
+      "code": "av",
+      "dbname": "avwiki",
+      "url": "https://av.wikipedia.org",
+      "langName": "авар",
+      "dir": "ltr",
+      "views": 66887
+    },
+    {
+      "code": "avk",
+      "dbname": "avkwiki",
+      "url": "https://avk.wikipedia.org",
+      "langName": "Kotava",
+      "dir": "ltr",
+      "views": 48253
+    },
+    {
+      "code": "awa",
+      "dbname": "awawiki",
+      "url": "https://awa.wikipedia.org",
+      "langName": "अवधी",
+      "dir": "ltr",
+      "views": 32413
+    },
+    {
+      "code": "ay",
+      "dbname": "aywiki",
+      "url": "https://ay.wikipedia.org",
+      "langName": "Aymar aru",
+      "dir": "ltr",
+      "views": 62195
+    },
+    {
+      "code": "az",
+      "dbname": "azwiki",
+      "url": "https://az.wikipedia.org",
+      "langName": "azərbaycanca",
+      "dir": "ltr",
+      "views": 18601009
+    },
+    {
+      "code": "azb",
+      "dbname": "azbwiki",
+      "url": "https://azb.wikipedia.org",
+      "langName": "تۆرکجه",
+      "dir": "rtl",
+      "views": 263300
+    },
+    {
+      "code": "ba",
+      "dbname": "bawiki",
+      "url": "https://ba.wikipedia.org",
+      "langName": "башҡортса",
+      "dir": "ltr",
+      "views": 230377
+    },
+    {
+      "code": "ban",
+      "dbname": "banwiki",
+      "url": "https://ban.wikipedia.org",
+      "langName": "Basa Bali",
+      "dir": "ltr",
+      "views": 104194
+    },
+    {
+      "code": "bar",
+      "dbname": "barwiki",
+      "url": "https://bar.wikipedia.org",
+      "langName": "Boarisch",
+      "dir": "ltr",
+      "views": 303339
+    },
+    {
+      "code": "bat-smg",
+      "dbname": "bat_smgwiki",
+      "url": "https://bat-smg.wikipedia.org",
+      "langName": "žemaitėška",
+      "dir": "ltr",
+      "views": 104523
+    },
+    {
+      "code": "bcl",
+      "dbname": "bclwiki",
+      "url": "https://bcl.wikipedia.org",
+      "langName": "Bikol Central",
+      "dir": "ltr",
+      "views": 303238
+    },
+    {
+      "code": "be",
+      "dbname": "bewiki",
+      "url": "https://be.wikipedia.org",
+      "langName": "беларуская",
+      "dir": "ltr",
+      "views": 1373477
+    },
+    {
+      "code": "be-x-old",
+      "dbname": "be_x_oldwiki",
+      "url": "https://be-tarask.wikipedia.org",
+      "langName": "беларуская (тарашкевіца)",
+      "dir": "ltr",
+      "views": 524437
+    },
+    {
+      "code": "bg",
+      "dbname": "bgwiki",
+      "url": "https://bg.wikipedia.org",
+      "langName": "български",
+      "dir": "ltr",
+      "views": 26528198
+    },
+    {
+      "code": "bh",
+      "dbname": "bhwiki",
+      "url": "https://bh.wikipedia.org",
+      "langName": "भोजपुरी",
+      "dir": "ltr",
+      "views": 323940
+    },
+    {
+      "code": "bi",
+      "dbname": "biwiki",
+      "url": "https://bi.wikipedia.org",
+      "langName": "Bislama",
+      "dir": "ltr",
+      "views": 61809
+    },
+    {
+      "code": "bjn",
+      "dbname": "bjnwiki",
+      "url": "https://bjn.wikipedia.org",
+      "langName": "Banjar",
+      "dir": "ltr",
+      "views": 112681
+    },
+    {
+      "code": "bm",
+      "dbname": "bmwiki",
+      "url": "https://bm.wikipedia.org",
+      "langName": "bamanankan",
+      "dir": "ltr",
+      "views": 43450
+    },
+    {
+      "code": "bn",
+      "dbname": "bnwiki",
+      "url": "https://bn.wikipedia.org",
+      "langName": "বাংলা",
+      "dir": "ltr",
+      "views": 15180506
+    },
+    {
+      "code": "bo",
+      "dbname": "bowiki",
+      "url": "https://bo.wikipedia.org",
+      "langName": "བོད་ཡིག",
+      "dir": "ltr",
+      "views": 146325
+    },
+    {
+      "code": "bpy",
+      "dbname": "bpywiki",
+      "url": "https://bpy.wikipedia.org",
+      "langName": "বিষ্ণুপ্রিয়া মণিপুরী",
+      "dir": "ltr",
+      "views": 99975
+    },
+    {
+      "code": "br",
+      "dbname": "brwiki",
+      "url": "https://br.wikipedia.org",
+      "langName": "brezhoneg",
+      "dir": "ltr",
+      "views": 364488
+    },
+    {
+      "code": "bs",
+      "dbname": "bswiki",
+      "url": "https://bs.wikipedia.org",
+      "langName": "bosanski",
+      "dir": "ltr",
+      "views": 3658444
+    },
+    {
+      "code": "bug",
+      "dbname": "bugwiki",
+      "url": "https://bug.wikipedia.org",
+      "langName": "ᨅᨔ ᨕᨘᨁᨗ",
+      "dir": "ltr",
+      "views": 38085
+    },
+    {
+      "code": "bxr",
+      "dbname": "bxrwiki",
+      "url": "https://bxr.wikipedia.org",
+      "langName": "буряад",
+      "dir": "ltr",
+      "views": 69100
+    },
+    {
+      "code": "ca",
+      "dbname": "cawiki",
+      "url": "https://ca.wikipedia.org",
+      "langName": "català",
+      "dir": "ltr",
+      "views": 17342968
+    },
+    {
+      "code": "cbk-zam",
+      "dbname": "cbk_zamwiki",
+      "url": "https://cbk-zam.wikipedia.org",
+      "langName": "Chavacano de Zamboanga",
+      "dir": "ltr",
+      "views": 61697
+    },
+    {
+      "code": "cdo",
+      "dbname": "cdowiki",
+      "url": "https://cdo.wikipedia.org",
+      "langName": "Mìng-dĕ̤ng-ngṳ̄",
+      "dir": "ltr",
+      "views": 100844
+    },
+    {
+      "code": "ce",
+      "dbname": "cewiki",
+      "url": "https://ce.wikipedia.org",
+      "langName": "нохчийн",
+      "dir": "ltr",
+      "views": 190299
+    },
+    {
+      "code": "ceb",
+      "dbname": "cebwiki",
+      "url": "https://ceb.wikipedia.org",
+      "langName": "Cebuano",
+      "dir": "ltr",
+      "views": 1275981
+    },
+    {
+      "code": "ch",
+      "dbname": "chwiki",
+      "url": "https://ch.wikipedia.org",
+      "langName": "Chamoru",
+      "dir": "ltr",
+      "views": 36825
+    },
+    {
+      "code": "chr",
+      "dbname": "chrwiki",
+      "url": "https://chr.wikipedia.org",
+      "langName": "ᏣᎳᎩ",
+      "dir": "ltr",
+      "views": 64305
+    },
+    {
+      "code": "chy",
+      "dbname": "chywiki",
+      "url": "https://chy.wikipedia.org",
+      "langName": "Tsetsêhestâhese",
+      "dir": "ltr",
+      "views": 41909
+    },
+    {
+      "code": "ckb",
+      "dbname": "ckbwiki",
+      "url": "https://ckb.wikipedia.org",
+      "langName": "کوردی",
+      "dir": "rtl",
+      "views": 610805
+    },
+    {
+      "code": "co",
+      "dbname": "cowiki",
+      "url": "https://co.wikipedia.org",
+      "langName": "corsu",
+      "dir": "ltr",
+      "views": 92797
+    },
+    {
+      "code": "cr",
+      "dbname": "crwiki",
+      "url": "https://cr.wikipedia.org",
+      "langName": "Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ",
+      "dir": "ltr",
+      "views": 42828
+    },
+    {
+      "code": "crh",
+      "dbname": "crhwiki",
+      "url": "https://crh.wikipedia.org",
+      "langName": "qırımtatarca",
+      "dir": "ltr",
+      "views": 89427
+    },
+    {
+      "code": "cs",
+      "dbname": "cswiki",
+      "url": "https://cs.wikipedia.org",
+      "langName": "čeština",
+      "dir": "ltr",
+      "views": 84588814
+    },
+    {
+      "code": "csb",
+      "dbname": "csbwiki",
+      "url": "https://csb.wikipedia.org",
+      "langName": "kaszëbsczi",
+      "dir": "ltr",
+      "views": 69307
+    },
+    {
+      "code": "cu",
+      "dbname": "cuwiki",
+      "url": "https://cu.wikipedia.org",
+      "langName": "словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ",
+      "dir": "ltr",
+      "views": 51907
+    },
+    {
+      "code": "cv",
+      "dbname": "cvwiki",
+      "url": "https://cv.wikipedia.org",
+      "langName": "Чӑвашла",
+      "dir": "ltr",
+      "views": 158997
+    },
+    {
+      "code": "cy",
+      "dbname": "cywiki",
+      "url": "https://cy.wikipedia.org",
+      "langName": "Cymraeg",
+      "dir": "ltr",
+      "views": 507689
+    },
+    {
+      "code": "da",
+      "dbname": "dawiki",
+      "url": "https://da.wikipedia.org",
+      "langName": "dansk",
+      "dir": "ltr",
+      "views": 24583264
+    },
+    {
+      "code": "de",
+      "dbname": "dewiki",
+      "url": "https://de.wikipedia.org",
+      "langName": "Deutsch",
+      "dir": "ltr",
+      "views": 1004058309
+    },
+    {
+      "code": "din",
+      "dbname": "dinwiki",
+      "url": "https://din.wikipedia.org",
+      "langName": "Thuɔŋjäŋ",
+      "dir": "ltr",
+      "views": 21182
+    },
+    {
+      "code": "diq",
+      "dbname": "diqwiki",
+      "url": "https://diq.wikipedia.org",
+      "langName": "Zazaki",
+      "dir": "ltr",
+      "views": 159708
+    },
+    {
+      "code": "dsb",
+      "dbname": "dsbwiki",
+      "url": "https://dsb.wikipedia.org",
+      "langName": "dolnoserbski",
+      "dir": "ltr",
+      "views": 82097
+    },
+    {
+      "code": "dty",
+      "dbname": "dtywiki",
+      "url": "https://dty.wikipedia.org",
+      "langName": "डोटेली",
+      "dir": "ltr",
+      "views": 58018
+    },
+    {
+      "code": "dv",
+      "dbname": "dvwiki",
+      "url": "https://dv.wikipedia.org",
+      "langName": "ދިވެހިބަސް",
+      "dir": "rtl",
+      "views": 69833
+    },
+    {
+      "code": "dz",
+      "dbname": "dzwiki",
+      "url": "https://dz.wikipedia.org",
+      "langName": "ཇོང་ཁ",
+      "dir": "ltr",
+      "views": 44024
+    },
+    {
+      "code": "ee",
+      "dbname": "eewiki",
+      "url": "https://ee.wikipedia.org",
+      "langName": "eʋegbe",
+      "dir": "ltr",
+      "views": 42028
+    },
+    {
+      "code": "el",
+      "dbname": "elwiki",
+      "url": "https://el.wikipedia.org",
+      "langName": "Ελληνικά",
+      "dir": "ltr",
+      "views": 38830365
+    },
+    {
+      "code": "eml",
+      "dbname": "emlwiki",
+      "url": "https://eml.wikipedia.org",
+      "langName": "emiliàn e rumagnòl",
+      "dir": "ltr",
+      "views": 105093
+    },
+    {
+      "code": "en",
+      "dbname": "enwiki",
+      "url": "https://en.wikipedia.org",
+      "langName": "English",
+      "dir": "ltr",
+      "views": 7800995735,
+      "language-name": "English",
+      "language-name-romanized": "English",
+      "language-name-romanized-sorted": "English",
+      "language-button-text": "Read Wikipedia in your language",
+      "footer-description": "Wikipedia is hosted by the Wikimedia Foundation, a non-profit organization that also hosts a range of other projects.",
+      "app-links": {
+        "title": "Download Wikipedia for Android or iOS",
+        "description": "Save your favorite articles to read offline, sync your reading lists across devices and customize your reading experience with the official Wikipedia app.",
+        "url": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications"
+      },
+      "license": "This page is available under the <a href='https://creativecommons.org/licenses/by-sa/3.0/'>Creative Commons Attribution-ShareAlike License</a>",
+      "terms": "Terms of Use",
+      "Privacy Policy": "Privacy Policy",
+      "terms-link": "https://meta.wikimedia.org/wiki/Terms_of_use",
+      "privacy-policy-link": "https://meta.wikimedia.org/wiki/Privacy_policy",
+      "search-input-button": "Search",
+      "search-input-label": "Search Wikipedia",
+      "other-languages-label": "Other languages",
+      "wiki": {
+        "name": "Wikipedia",
+        "slogan": "The Free Encyclopedia",
+        "entries": "articles"
+      },
+      "wiktionary": {
+        "name": "Wiktionary",
+        "slogan": "Free dictionary",
+        "entries": "entries"
+      },
+      "wikibooks": {
+        "name": "Wikibooks",
+        "slogan": "Free textbooks",
+        "entries": "pages"
+      },
+      "wikinews": {
+        "name": "Wikinews",
+        "slogan": "Free news source",
+        "entries": "articles"
+      },
+      "wikiquote": {
+        "name": "Wikiquote",
+        "slogan": "Free quote compendium",
+        "entries": "articles"
+      },
+      "wikisource": {
+        "name": "Wikisource",
+        "slogan": "Free library"
+      },
+      "wikiversity": {
+        "name": "Wikiversity",
+        "slogan": "Free course materials",
+        "entries": "learning resources"
+      },
+      "wikivoyage": {
+        "name": "Wikivoyage",
+        "slogan": "Free travel guide"
+      },
+      "commons": {
+        "name": "Commons",
+        "slogan": "Freely usable photos & more"
+      },
+      "wikispecies": {
+        "name": "Wikispecies",
+        "slogan": "Free species directory"
+      },
+      "wikidata": {
+        "name": "Wikidata",
+        "slogan": "Free knowledge base"
+      },
+      "mediawiki": {
+        "name": "MediaWiki",
+        "slogan": "Free & open wiki application"
+      },
+      "metawiki": {
+        "name": "Meta-Wiki",
+        "slogan": "Community coordination & documentation"
+      }
+    },
+    {
+      "code": "eo",
+      "dbname": "eowiki",
+      "url": "https://eo.wikipedia.org",
+      "langName": "Esperanto",
+      "dir": "ltr",
+      "views": 879358
+    },
+    {
+      "code": "es",
+      "dbname": "eswiki",
+      "url": "https://es.wikipedia.org",
+      "langName": "español",
+      "dir": "ltr",
+      "views": 1113462399
+    },
+    {
+      "code": "et",
+      "dbname": "etwiki",
+      "url": "https://et.wikipedia.org",
+      "langName": "eesti",
+      "dir": "ltr",
+      "views": 8387651
+    },
+    {
+      "code": "eu",
+      "dbname": "euwiki",
+      "url": "https://eu.wikipedia.org",
+      "langName": "euskara",
+      "dir": "ltr",
+      "views": 2288639
+    },
+    {
+      "code": "ext",
+      "dbname": "extwiki",
+      "url": "https://ext.wikipedia.org",
+      "langName": "estremeñu",
+      "dir": "ltr",
+      "views": 145443
+    },
+    {
+      "code": "fa",
+      "dbname": "fawiki",
+      "url": "https://fa.wikipedia.org",
+      "langName": "فارسی",
+      "dir": "rtl",
+      "views": 219065640
+    },
+    {
+      "code": "ff",
+      "dbname": "ffwiki",
+      "url": "https://ff.wikipedia.org",
+      "langName": "Fulfulde",
+      "dir": "ltr",
+      "views": 39640
+    },
+    {
+      "code": "fi",
+      "dbname": "fiwiki",
+      "url": "https://fi.wikipedia.org",
+      "langName": "suomi",
+      "dir": "ltr",
+      "views": 63448372
+    },
+    {
+      "code": "fiu-vro",
+      "dbname": "fiu_vrowiki",
+      "url": "https://fiu-vro.wikipedia.org",
+      "langName": "võro",
+      "dir": "ltr",
+      "views": 84636
+    },
+    {
+      "code": "fj",
+      "dbname": "fjwiki",
+      "url": "https://fj.wikipedia.org",
+      "langName": "Na Vosa Vakaviti",
+      "dir": "ltr",
+      "views": 49647
+    },
+    {
+      "code": "fo",
+      "dbname": "fowiki",
+      "url": "https://fo.wikipedia.org",
+      "langName": "føroyskt",
+      "dir": "ltr",
+      "views": 164981
+    },
+    {
+      "code": "fr",
+      "dbname": "frwiki",
+      "url": "https://fr.wikipedia.org",
+      "langName": "français",
+      "dir": "ltr",
+      "views": 780869595
+    },
+    {
+      "code": "frp",
+      "dbname": "frpwiki",
+      "url": "https://frp.wikipedia.org",
+      "langName": "arpetan",
+      "dir": "ltr",
+      "views": 89706
+    },
+    {
+      "code": "frr",
+      "dbname": "frrwiki",
+      "url": "https://frr.wikipedia.org",
+      "langName": "Nordfriisk",
+      "dir": "ltr",
+      "views": 150285
+    },
+    {
+      "code": "fur",
+      "dbname": "furwiki",
+      "url": "https://fur.wikipedia.org",
+      "langName": "furlan",
+      "dir": "ltr",
+      "views": 70829
+    },
+    {
+      "code": "fy",
+      "dbname": "fywiki",
+      "url": "https://fy.wikipedia.org",
+      "langName": "Frysk",
+      "dir": "ltr",
+      "views": 308998
+    },
+    {
+      "code": "ga",
+      "dbname": "gawiki",
+      "url": "https://ga.wikipedia.org",
+      "langName": "Gaeilge",
+      "dir": "ltr",
+      "views": 563047
+    },
+    {
+      "code": "gag",
+      "dbname": "gagwiki",
+      "url": "https://gag.wikipedia.org",
+      "langName": "Gagauz",
+      "dir": "ltr",
+      "views": 80233
+    },
+    {
+      "code": "gan",
+      "dbname": "ganwiki",
+      "url": "https://gan.wikipedia.org",
+      "langName": "贛語",
+      "dir": "ltr",
+      "views": 94880
+    },
+    {
+      "code": "gcr",
+      "dbname": "gcrwiki",
+      "url": "https://gcr.wikipedia.org",
+      "langName": "kriyòl gwiyannen",
+      "dir": "ltr",
+      "views": 49814
+    },
+    {
+      "code": "gd",
+      "dbname": "gdwiki",
+      "url": "https://gd.wikipedia.org",
+      "langName": "Gàidhlig",
+      "dir": "ltr",
+      "views": 189738
+    },
+    {
+      "code": "gl",
+      "dbname": "glwiki",
+      "url": "https://gl.wikipedia.org",
+      "langName": "galego",
+      "dir": "ltr",
+      "views": 1742080
+    },
+    {
+      "code": "glk",
+      "dbname": "glkwiki",
+      "url": "https://glk.wikipedia.org",
+      "langName": "گیلکی",
+      "dir": "rtl",
+      "views": 52662
+    },
+    {
+      "code": "gn",
+      "dbname": "gnwiki",
+      "url": "https://gn.wikipedia.org",
+      "langName": "Avañe'ẽ",
+      "dir": "ltr",
+      "views": 227360
+    },
+    {
+      "code": "gom",
+      "dbname": "gomwiki",
+      "url": "https://gom.wikipedia.org",
+      "langName": "गोंयची कोंकणी / Gõychi Konknni",
+      "dir": "ltr",
+      "views": 64027
+    },
+    {
+      "code": "gor",
+      "dbname": "gorwiki",
+      "url": "https://gor.wikipedia.org",
+      "langName": "Bahasa Hulontalo",
+      "dir": "ltr",
+      "views": 71193
+    },
+    {
+      "code": "got",
+      "dbname": "gotwiki",
+      "url": "https://got.wikipedia.org",
+      "langName": "𐌲𐌿𐍄𐌹𐍃𐌺",
+      "dir": "ltr",
+      "views": 48352
+    },
+    {
+      "code": "gu",
+      "dbname": "guwiki",
+      "url": "https://gu.wikipedia.org",
+      "langName": "ગુજરાતી",
+      "dir": "ltr",
+      "views": 895682
+    },
+    {
+      "code": "gv",
+      "dbname": "gvwiki",
+      "url": "https://gv.wikipedia.org",
+      "langName": "Gaelg",
+      "dir": "ltr",
+      "views": 86254
+    },
+    {
+      "code": "ha",
+      "dbname": "hawiki",
+      "url": "https://ha.wikipedia.org",
+      "langName": "Hausa",
+      "dir": "ltr",
+      "views": 360877
+    },
+    {
+      "code": "hak",
+      "dbname": "hakwiki",
+      "url": "https://hak.wikipedia.org",
+      "langName": "客家語/Hak-kâ-ngî",
+      "dir": "ltr",
+      "views": 101260
+    },
+    {
+      "code": "haw",
+      "dbname": "hawwiki",
+      "url": "https://haw.wikipedia.org",
+      "langName": "Hawaiʻi",
+      "dir": "ltr",
+      "views": 50896
+    },
+    {
+      "code": "he",
+      "dbname": "hewiki",
+      "url": "https://he.wikipedia.org",
+      "langName": "עברית",
+      "dir": "rtl",
+      "views": 69809733
+    },
+    {
+      "code": "hi",
+      "dbname": "hiwiki",
+      "url": "https://hi.wikipedia.org",
+      "langName": "हिन्दी",
+      "dir": "ltr",
+      "views": 46197706
+    },
+    {
+      "code": "hif",
+      "dbname": "hifwiki",
+      "url": "https://hif.wikipedia.org",
+      "langName": "Fiji Hindi",
+      "dir": "ltr",
+      "views": 142743
+    },
+    {
+      "code": "hr",
+      "dbname": "hrwiki",
+      "url": "https://hr.wikipedia.org",
+      "langName": "hrvatski",
+      "dir": "ltr",
+      "views": 22933101
+    },
+    {
+      "code": "hsb",
+      "dbname": "hsbwiki",
+      "url": "https://hsb.wikipedia.org",
+      "langName": "hornjoserbsce",
+      "dir": "ltr",
+      "views": 112104
+    },
+    {
+      "code": "ht",
+      "dbname": "htwiki",
+      "url": "https://ht.wikipedia.org",
+      "langName": "Kreyòl ayisyen",
+      "dir": "ltr",
+      "views": 155998
+    },
+    {
+      "code": "hu",
+      "dbname": "huwiki",
+      "url": "https://hu.wikipedia.org",
+      "langName": "magyar",
+      "dir": "ltr",
+      "views": 61272883
+    },
+    {
+      "code": "hy",
+      "dbname": "hywiki",
+      "url": "https://hy.wikipedia.org",
+      "langName": "հայերեն",
+      "dir": "ltr",
+      "views": 7808075
+    },
+    {
+      "code": "hyw",
+      "dbname": "hywwiki",
+      "url": "https://hyw.wikipedia.org",
+      "langName": "Արեւմտահայերէն",
+      "dir": "ltr",
+      "views": 142960
+    },
+    {
+      "code": "ia",
+      "dbname": "iawiki",
+      "url": "https://ia.wikipedia.org",
+      "langName": "interlingua",
+      "dir": "ltr",
+      "views": 178329
+    },
+    {
+      "code": "id",
+      "dbname": "idwiki",
+      "url": "https://id.wikipedia.org",
+      "langName": "Bahasa Indonesia",
+      "dir": "ltr",
+      "views": 95349210
+    },
+    {
+      "code": "ie",
+      "dbname": "iewiki",
+      "url": "https://ie.wikipedia.org",
+      "langName": "Interlingue",
+      "dir": "ltr",
+      "views": 105844
+    },
+    {
+      "code": "ig",
+      "dbname": "igwiki",
+      "url": "https://ig.wikipedia.org",
+      "langName": "Igbo",
+      "dir": "ltr",
+      "views": 1022307
+    },
+    {
+      "code": "ik",
+      "dbname": "ikwiki",
+      "url": "https://ik.wikipedia.org",
+      "langName": "Iñupiak",
+      "dir": "ltr",
+      "views": 41555
+    },
+    {
+      "code": "ilo",
+      "dbname": "ilowiki",
+      "url": "https://ilo.wikipedia.org",
+      "langName": "Ilokano",
+      "dir": "ltr",
+      "views": 176791
+    },
+    {
+      "code": "inh",
+      "dbname": "inhwiki",
+      "url": "https://inh.wikipedia.org",
+      "langName": "ГӀалгӀай",
+      "dir": "ltr",
+      "views": 53865
+    },
+    {
+      "code": "io",
+      "dbname": "iowiki",
+      "url": "https://io.wikipedia.org",
+      "langName": "Ido",
+      "dir": "ltr",
+      "views": 168721
+    },
+    {
+      "code": "is",
+      "dbname": "iswiki",
+      "url": "https://is.wikipedia.org",
+      "langName": "íslenska",
+      "dir": "ltr",
+      "views": 1344483
+    },
+    {
+      "code": "it",
+      "dbname": "itwiki",
+      "url": "https://it.wikipedia.org",
+      "langName": "italiano",
+      "dir": "ltr",
+      "views": 580257410
+    },
+    {
+      "code": "iu",
+      "dbname": "iuwiki",
+      "url": "https://iu.wikipedia.org",
+      "langName": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
+      "dir": "ltr",
+      "views": 54955
+    },
+    {
+      "code": "ja",
+      "dbname": "jawiki",
+      "url": "https://ja.wikipedia.org",
+      "langName": "日本語",
+      "dir": "ltr",
+      "views": 1217222961
+    },
+    {
+      "code": "jam",
+      "dbname": "jamwiki",
+      "url": "https://jam.wikipedia.org",
+      "langName": "Patois",
+      "dir": "ltr",
+      "views": 60649
+    },
+    {
+      "code": "jbo",
+      "dbname": "jbowiki",
+      "url": "https://jbo.wikipedia.org",
+      "langName": "la .lojban.",
+      "dir": "ltr",
+      "views": 53959
+    },
+    {
+      "code": "jv",
+      "dbname": "jvwiki",
+      "url": "https://jv.wikipedia.org",
+      "langName": "Jawa",
+      "dir": "ltr",
+      "views": 354696
+    },
+    {
+      "code": "ka",
+      "dbname": "kawiki",
+      "url": "https://ka.wikipedia.org",
+      "langName": "ქართული",
+      "dir": "ltr",
+      "views": 8800249
+    },
+    {
+      "code": "kaa",
+      "dbname": "kaawiki",
+      "url": "https://kaa.wikipedia.org",
+      "langName": "Qaraqalpaqsha",
+      "dir": "ltr",
+      "views": 73651
+    },
+    {
+      "code": "kab",
+      "dbname": "kabwiki",
+      "url": "https://kab.wikipedia.org",
+      "langName": "Taqbaylit",
+      "dir": "ltr",
+      "views": 90766
+    },
+    {
+      "code": "kbd",
+      "dbname": "kbdwiki",
+      "url": "https://kbd.wikipedia.org",
+      "langName": "Адыгэбзэ",
+      "dir": "ltr",
+      "views": 43582
+    },
+    {
+      "code": "kbp",
+      "dbname": "kbpwiki",
+      "url": "https://kbp.wikipedia.org",
+      "langName": "Kabɩyɛ",
+      "dir": "ltr",
+      "views": 46799
+    },
+    {
+      "code": "kg",
+      "dbname": "kgwiki",
+      "url": "https://kg.wikipedia.org",
+      "langName": "Kongo",
+      "dir": "ltr",
+      "views": 45288
+    },
+    {
+      "code": "ki",
+      "dbname": "kiwiki",
+      "url": "https://ki.wikipedia.org",
+      "langName": "Gĩkũyũ",
+      "dir": "ltr",
+      "views": 50308
+    },
+    {
+      "code": "kk",
+      "dbname": "kkwiki",
+      "url": "https://kk.wikipedia.org",
+      "langName": "қазақша",
+      "dir": "ltr",
+      "views": 19055882
+    },
+    {
+      "code": "kl",
+      "dbname": "klwiki",
+      "url": "https://kl.wikipedia.org",
+      "langName": "kalaallisut",
+      "dir": "ltr",
+      "views": 51713
+    },
+    {
+      "code": "km",
+      "dbname": "kmwiki",
+      "url": "https://km.wikipedia.org",
+      "langName": "ភាសាខ្មែរ",
+      "dir": "ltr",
+      "views": 2501456
+    },
+    {
+      "code": "kn",
+      "dbname": "knwiki",
+      "url": "https://kn.wikipedia.org",
+      "langName": "ಕನ್ನಡ",
+      "dir": "ltr",
+      "views": 2085498
+    },
+    {
+      "code": "ko",
+      "dbname": "kowiki",
+      "url": "https://ko.wikipedia.org",
+      "langName": "한국어",
+      "dir": "ltr",
+      "views": 84465714
+    },
+    {
+      "code": "koi",
+      "dbname": "koiwiki",
+      "url": "https://koi.wikipedia.org",
+      "langName": "перем коми",
+      "dir": "ltr",
+      "views": 39846
+    },
+    {
+      "code": "krc",
+      "dbname": "krcwiki",
+      "url": "https://krc.wikipedia.org",
+      "langName": "къарачай-малкъар",
+      "dir": "ltr",
+      "views": 67288
+    },
+    {
+      "code": "ks",
+      "dbname": "kswiki",
+      "url": "https://ks.wikipedia.org",
+      "langName": "कॉशुर / کٲشُر",
+      "dir": "rtl",
+      "views": 35283
+    },
+    {
+      "code": "ksh",
+      "dbname": "kshwiki",
+      "url": "https://ksh.wikipedia.org",
+      "langName": "Ripoarisch",
+      "dir": "ltr",
+      "views": 85723
+    },
+    {
+      "code": "ku",
+      "dbname": "kuwiki",
+      "url": "https://ku.wikipedia.org",
+      "langName": "kurdî",
+      "dir": "ltr",
+      "views": 272146
+    },
+    {
+      "code": "kv",
+      "dbname": "kvwiki",
+      "url": "https://kv.wikipedia.org",
+      "langName": "коми",
+      "dir": "ltr",
+      "views": 74397
+    },
+    {
+      "code": "kw",
+      "dbname": "kwwiki",
+      "url": "https://kw.wikipedia.org",
+      "langName": "kernowek",
+      "dir": "ltr",
+      "views": 144120
+    },
+    {
+      "code": "ky",
+      "dbname": "kywiki",
+      "url": "https://ky.wikipedia.org",
+      "langName": "Кыргызча",
+      "dir": "ltr",
+      "views": 2343370
+    },
+    {
+      "code": "la",
+      "dbname": "lawiki",
+      "url": "https://la.wikipedia.org",
+      "langName": "Latina",
+      "dir": "ltr",
+      "views": 922270
+    },
+    {
+      "code": "lad",
+      "dbname": "ladwiki",
+      "url": "https://lad.wikipedia.org",
+      "langName": "Ladino",
+      "dir": "ltr",
+      "views": 73079
+    },
+    {
+      "code": "lb",
+      "dbname": "lbwiki",
+      "url": "https://lb.wikipedia.org",
+      "langName": "Lëtzebuergesch",
+      "dir": "ltr",
+      "views": 312958
+    },
+    {
+      "code": "lbe",
+      "dbname": "lbewiki",
+      "url": "https://lbe.wikipedia.org",
+      "langName": "лакку",
+      "dir": "ltr",
+      "views": 37352
+    },
+    {
+      "code": "lez",
+      "dbname": "lezwiki",
+      "url": "https://lez.wikipedia.org",
+      "langName": "лезги",
+      "dir": "ltr",
+      "views": 70210
+    },
+    {
+      "code": "lfn",
+      "dbname": "lfnwiki",
+      "url": "https://lfn.wikipedia.org",
+      "langName": "Lingua Franca Nova",
+      "dir": "ltr",
+      "views": 73655
+    },
+    {
+      "code": "lg",
+      "dbname": "lgwiki",
+      "url": "https://lg.wikipedia.org",
+      "langName": "Luganda",
+      "dir": "ltr",
+      "views": 47482
+    },
+    {
+      "code": "li",
+      "dbname": "liwiki",
+      "url": "https://li.wikipedia.org",
+      "langName": "Limburgs",
+      "dir": "ltr",
+      "views": 174271
+    },
+    {
+      "code": "lij",
+      "dbname": "lijwiki",
+      "url": "https://lij.wikipedia.org",
+      "langName": "Ligure",
+      "dir": "ltr",
+      "views": 123956
+    },
+    {
+      "code": "lld",
+      "dbname": "lldwiki",
+      "url": "https://lld.wikipedia.org",
+      "langName": "Ladin",
+      "dir": "ltr",
+      "views": 34265
+    },
+    {
+      "code": "lmo",
+      "dbname": "lmowiki",
+      "url": "https://lmo.wikipedia.org",
+      "langName": "lombard",
+      "dir": "ltr",
+      "views": 279455
+    },
+    {
+      "code": "ln",
+      "dbname": "lnwiki",
+      "url": "https://ln.wikipedia.org",
+      "langName": "lingála",
+      "dir": "ltr",
+      "views": 68901
+    },
+    {
+      "code": "lo",
+      "dbname": "lowiki",
+      "url": "https://lo.wikipedia.org",
+      "langName": "ລາວ",
+      "dir": "ltr",
+      "views": 249182
+    },
+    {
+      "code": "lt",
+      "dbname": "ltwiki",
+      "url": "https://lt.wikipedia.org",
+      "langName": "lietuvių",
+      "dir": "ltr",
+      "views": 13439732
+    },
+    {
+      "code": "ltg",
+      "dbname": "ltgwiki",
+      "url": "https://ltg.wikipedia.org",
+      "langName": "latgaļu",
+      "dir": "ltr",
+      "views": 41467
+    },
+    {
+      "code": "lv",
+      "dbname": "lvwiki",
+      "url": "https://lv.wikipedia.org",
+      "langName": "latviešu",
+      "dir": "ltr",
+      "views": 6343741
+    },
+    {
+      "code": "mad",
+      "dbname": "madwiki",
+      "url": "https://mad.wikipedia.org",
+      "langName": "Madhurâ",
+      "dir": "ltr",
+      "views": 28964
+    },
+    {
+      "code": "mai",
+      "dbname": "maiwiki",
+      "url": "https://mai.wikipedia.org",
+      "langName": "मैथिली",
+      "dir": "ltr",
+      "views": 103957
+    },
+    {
+      "code": "map-bms",
+      "dbname": "map_bmswiki",
+      "url": "https://map-bms.wikipedia.org",
+      "langName": "Basa Banyumasan",
+      "dir": "ltr",
+      "views": 89953
+    },
+    {
+      "code": "mdf",
+      "dbname": "mdfwiki",
+      "url": "https://mdf.wikipedia.org",
+      "langName": "мокшень",
+      "dir": "ltr",
+      "views": 40829
+    },
+    {
+      "code": "mg",
+      "dbname": "mgwiki",
+      "url": "https://mg.wikipedia.org",
+      "langName": "Malagasy",
+      "dir": "ltr",
+      "views": 179187
+    },
+    {
+      "code": "mhr",
+      "dbname": "mhrwiki",
+      "url": "https://mhr.wikipedia.org",
+      "langName": "олык марий",
+      "dir": "ltr",
+      "views": 92711
+    },
+    {
+      "code": "mi",
+      "dbname": "miwiki",
+      "url": "https://mi.wikipedia.org",
+      "langName": "Māori",
+      "dir": "ltr",
+      "views": 74695
+    },
+    {
+      "code": "min",
+      "dbname": "minwiki",
+      "url": "https://min.wikipedia.org",
+      "langName": "Minangkabau",
+      "dir": "ltr",
+      "views": 204055
+    },
+    {
+      "code": "mk",
+      "dbname": "mkwiki",
+      "url": "https://mk.wikipedia.org",
+      "langName": "македонски",
+      "dir": "ltr",
+      "views": 4077172
+    },
+    {
+      "code": "ml",
+      "dbname": "mlwiki",
+      "url": "https://ml.wikipedia.org",
+      "langName": "മലയാളം",
+      "dir": "ltr",
+      "views": 6218733
+    },
+    {
+      "code": "mn",
+      "dbname": "mnwiki",
+      "url": "https://mn.wikipedia.org",
+      "langName": "монгол",
+      "dir": "ltr",
+      "views": 1914947
+    },
+    {
+      "code": "mni",
+      "dbname": "mniwiki",
+      "url": "https://mni.wikipedia.org",
+      "langName": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+      "dir": "ltr",
+      "views": 27892
+    },
+    {
+      "code": "mnw",
+      "dbname": "mnwwiki",
+      "url": "https://mnw.wikipedia.org",
+      "langName": "ဘာသာ မန်",
+      "dir": "ltr",
+      "views": 35819
+    },
+    {
+      "code": "mr",
+      "dbname": "mrwiki",
+      "url": "https://mr.wikipedia.org",
+      "langName": "मराठी",
+      "dir": "ltr",
+      "views": 6719520
+    },
+    {
+      "code": "mrj",
+      "dbname": "mrjwiki",
+      "url": "https://mrj.wikipedia.org",
+      "langName": "кырык мары",
+      "dir": "ltr",
+      "views": 50072
+    },
+    {
+      "code": "ms",
+      "dbname": "mswiki",
+      "url": "https://ms.wikipedia.org",
+      "langName": "Bahasa Melayu",
+      "dir": "ltr",
+      "views": 17898924
+    },
+    {
+      "code": "mt",
+      "dbname": "mtwiki",
+      "url": "https://mt.wikipedia.org",
+      "langName": "Malti",
+      "dir": "ltr",
+      "views": 107023
+    },
+    {
+      "code": "mwl",
+      "dbname": "mwlwiki",
+      "url": "https://mwl.wikipedia.org",
+      "langName": "Mirandés",
+      "dir": "ltr",
+      "views": 66189
+    },
+    {
+      "code": "my",
+      "dbname": "mywiki",
+      "url": "https://my.wikipedia.org",
+      "langName": "မြန်မာဘာသာ",
+      "dir": "ltr",
+      "views": 1201241
+    },
+    {
+      "code": "myv",
+      "dbname": "myvwiki",
+      "url": "https://myv.wikipedia.org",
+      "langName": "эрзянь",
+      "dir": "ltr",
+      "views": 73108
+    },
+    {
+      "code": "mzn",
+      "dbname": "mznwiki",
+      "url": "https://mzn.wikipedia.org",
+      "langName": "مازِرونی",
+      "dir": "rtl",
+      "views": 154012
+    },
+    {
+      "code": "na",
+      "dbname": "nawiki",
+      "url": "https://na.wikipedia.org",
+      "langName": "Dorerin Naoero",
+      "dir": "ltr",
+      "views": 53909
+    },
+    {
+      "code": "nah",
+      "dbname": "nahwiki",
+      "url": "https://nah.wikipedia.org",
+      "langName": "Nāhuatl",
+      "dir": "ltr",
+      "views": 77417
+    },
+    {
+      "code": "nap",
+      "dbname": "napwiki",
+      "url": "https://nap.wikipedia.org",
+      "langName": "Napulitano",
+      "dir": "ltr",
+      "views": 118624
+    },
+    {
+      "code": "nds",
+      "dbname": "ndswiki",
+      "url": "https://nds.wikipedia.org",
+      "langName": "Plattdüütsch",
+      "dir": "ltr",
+      "views": 239060
+    },
+    {
+      "code": "nds-nl",
+      "dbname": "nds_nlwiki",
+      "url": "https://nds-nl.wikipedia.org",
+      "langName": "Nedersaksies",
+      "dir": "ltr",
+      "views": 160247
+    },
+    {
+      "code": "ne",
+      "dbname": "newiki",
+      "url": "https://ne.wikipedia.org",
+      "langName": "नेपाली",
+      "dir": "ltr",
+      "views": 796477
+    },
+    {
+      "code": "new",
+      "dbname": "newwiki",
+      "url": "https://new.wikipedia.org",
+      "langName": "नेपाल भाषा",
+      "dir": "ltr",
+      "views": 112192
+    },
+    {
+      "code": "nia",
+      "dbname": "niawiki",
+      "url": "https://nia.wikipedia.org",
+      "langName": "Li Niha",
+      "dir": "ltr",
+      "views": 21677
+    },
+    {
+      "code": "nl",
+      "dbname": "nlwiki",
+      "url": "https://nl.wikipedia.org",
+      "langName": "Nederlands",
+      "dir": "ltr",
+      "views": 154171599
+    },
+    {
+      "code": "nn",
+      "dbname": "nnwiki",
+      "url": "https://nn.wikipedia.org",
+      "langName": "norsk nynorsk",
+      "dir": "ltr",
+      "views": 931911
+    },
+    {
+      "code": "no",
+      "dbname": "nowiki",
+      "url": "https://no.wikipedia.org",
+      "langName": "norsk",
+      "dir": "ltr",
+      "views": 31829466
+    },
+    {
+      "code": "nov",
+      "dbname": "novwiki",
+      "url": "https://nov.wikipedia.org",
+      "langName": "Novial",
+      "dir": "ltr",
+      "views": 59598
+    },
+    {
+      "code": "nqo",
+      "dbname": "nqowiki",
+      "url": "https://nqo.wikipedia.org",
+      "langName": "ߒߞߏ",
+      "dir": "rtl",
+      "views": 41035
+    },
+    {
+      "code": "nrm",
+      "dbname": "nrmwiki",
+      "url": "https://nrm.wikipedia.org",
+      "langName": "Nouormand",
+      "dir": "ltr",
+      "views": 65739
+    },
+    {
+      "code": "nso",
+      "dbname": "nsowiki",
+      "url": "https://nso.wikipedia.org",
+      "langName": "Sesotho sa Leboa",
+      "dir": "ltr",
+      "views": 67999
+    },
+    {
+      "code": "nv",
+      "dbname": "nvwiki",
+      "url": "https://nv.wikipedia.org",
+      "langName": "Diné bizaad",
+      "dir": "ltr",
+      "views": 62039
+    },
+    {
+      "code": "ny",
+      "dbname": "nywiki",
+      "url": "https://ny.wikipedia.org",
+      "langName": "Chi-Chewa",
+      "dir": "ltr",
+      "views": 47357
+    },
+    {
+      "code": "oc",
+      "dbname": "ocwiki",
+      "url": "https://oc.wikipedia.org",
+      "langName": "occitan",
+      "dir": "ltr",
+      "views": 310480
+    },
+    {
+      "code": "olo",
+      "dbname": "olowiki",
+      "url": "https://olo.wikipedia.org",
+      "langName": "livvinkarjala",
+      "dir": "ltr",
+      "views": 113858
+    },
+    {
+      "code": "om",
+      "dbname": "omwiki",
+      "url": "https://om.wikipedia.org",
+      "langName": "Oromoo",
+      "dir": "ltr",
+      "views": 110285
+    },
+    {
+      "code": "or",
+      "dbname": "orwiki",
+      "url": "https://or.wikipedia.org",
+      "langName": "ଓଡ଼ିଆ",
+      "dir": "ltr",
+      "views": 235293
+    },
+    {
+      "code": "os",
+      "dbname": "oswiki",
+      "url": "https://os.wikipedia.org",
+      "langName": "Ирон",
+      "dir": "ltr",
+      "views": 116967
+    },
+    {
+      "code": "pa",
+      "dbname": "pawiki",
+      "url": "https://pa.wikipedia.org",
+      "langName": "ਪੰਜਾਬੀ",
+      "dir": "ltr",
+      "views": 749301
+    },
+    {
+      "code": "pag",
+      "dbname": "pagwiki",
+      "url": "https://pag.wikipedia.org",
+      "langName": "Pangasinan",
+      "dir": "ltr",
+      "views": 58011
+    },
+    {
+      "code": "pam",
+      "dbname": "pamwiki",
+      "url": "https://pam.wikipedia.org",
+      "langName": "Kapampangan",
+      "dir": "ltr",
+      "views": 101254
+    },
+    {
+      "code": "pap",
+      "dbname": "papwiki",
+      "url": "https://pap.wikipedia.org",
+      "langName": "Papiamentu",
+      "dir": "ltr",
+      "views": 79593
+    },
+    {
+      "code": "pcd",
+      "dbname": "pcdwiki",
+      "url": "https://pcd.wikipedia.org",
+      "langName": "Picard",
+      "dir": "ltr",
+      "views": 80967
+    },
+    {
+      "code": "pdc",
+      "dbname": "pdcwiki",
+      "url": "https://pdc.wikipedia.org",
+      "langName": "Deitsch",
+      "dir": "ltr",
+      "views": 60417
+    },
+    {
+      "code": "pfl",
+      "dbname": "pflwiki",
+      "url": "https://pfl.wikipedia.org",
+      "langName": "Pälzisch",
+      "dir": "ltr",
+      "views": 57776
+    },
+    {
+      "code": "pi",
+      "dbname": "piwiki",
+      "url": "https://pi.wikipedia.org",
+      "langName": "पालि",
+      "dir": "ltr",
+      "views": 42635
+    },
+    {
+      "code": "pih",
+      "dbname": "pihwiki",
+      "url": "https://pih.wikipedia.org",
+      "langName": "Norfuk / Pitkern",
+      "dir": "ltr",
+      "views": 52627
+    },
+    {
+      "code": "pl",
+      "dbname": "plwiki",
+      "url": "https://pl.wikipedia.org",
+      "langName": "polski",
+      "dir": "ltr",
+      "views": 264718171
+    },
+    {
+      "code": "pms",
+      "dbname": "pmswiki",
+      "url": "https://pms.wikipedia.org",
+      "langName": "Piemontèis",
+      "dir": "ltr",
+      "views": 110371
+    },
+    {
+      "code": "pnb",
+      "dbname": "pnbwiki",
+      "url": "https://pnb.wikipedia.org",
+      "langName": "پنجابی",
+      "dir": "rtl",
+      "views": 213768
+    },
+    {
+      "code": "pnt",
+      "dbname": "pntwiki",
+      "url": "https://pnt.wikipedia.org",
+      "langName": "Ποντιακά",
+      "dir": "ltr",
+      "views": 39750
+    },
+    {
+      "code": "ps",
+      "dbname": "pswiki",
+      "url": "https://ps.wikipedia.org",
+      "langName": "پښتو",
+      "dir": "rtl",
+      "views": 158108
+    },
+    {
+      "code": "pt",
+      "dbname": "ptwiki",
+      "url": "https://pt.wikipedia.org",
+      "langName": "português",
+      "dir": "ltr",
+      "views": 314718703
+    },
+    {
+      "code": "qu",
+      "dbname": "quwiki",
+      "url": "https://qu.wikipedia.org",
+      "langName": "Runa Simi",
+      "dir": "ltr",
+      "views": 148220
+    },
+    {
+      "code": "rm",
+      "dbname": "rmwiki",
+      "url": "https://rm.wikipedia.org",
+      "langName": "rumantsch",
+      "dir": "ltr",
+      "views": 63091
+    },
+    {
+      "code": "rmy",
+      "dbname": "rmywiki",
+      "url": "https://rmy.wikipedia.org",
+      "langName": "romani čhib",
+      "dir": "ltr",
+      "views": 43673
+    },
+    {
+      "code": "rn",
+      "dbname": "rnwiki",
+      "url": "https://rn.wikipedia.org",
+      "langName": "Kirundi",
+      "dir": "ltr",
+      "views": 37134
+    },
+    {
+      "code": "ro",
+      "dbname": "rowiki",
+      "url": "https://ro.wikipedia.org",
+      "langName": "română",
+      "dir": "ltr",
+      "views": 44610265
+    },
+    {
+      "code": "roa-rup",
+      "dbname": "roa_rupwiki",
+      "url": "https://roa-rup.wikipedia.org",
+      "langName": "armãneashti",
+      "dir": "ltr",
+      "views": 47413
+    },
+    {
+      "code": "roa-tara",
+      "dbname": "roa_tarawiki",
+      "url": "https://roa-tara.wikipedia.org",
+      "langName": "tarandíne",
+      "dir": "ltr",
+      "views": 56551
+    },
+    {
+      "code": "ru",
+      "dbname": "ruwiki",
+      "url": "https://ru.wikipedia.org",
+      "langName": "русский",
+      "dir": "ltr",
+      "views": 818221518
+    },
+    {
+      "code": "rue",
+      "dbname": "ruewiki",
+      "url": "https://rue.wikipedia.org",
+      "langName": "русиньскый",
+      "dir": "ltr",
+      "views": 227726
+    },
+    {
+      "code": "rw",
+      "dbname": "rwwiki",
+      "url": "https://rw.wikipedia.org",
+      "langName": "Ikinyarwanda",
+      "dir": "ltr",
+      "views": 98347
+    },
+    {
+      "code": "sa",
+      "dbname": "sawiki",
+      "url": "https://sa.wikipedia.org",
+      "langName": "संस्कृतम्",
+      "dir": "ltr",
+      "views": 133570
+    },
+    {
+      "code": "sah",
+      "dbname": "sahwiki",
+      "url": "https://sah.wikipedia.org",
+      "langName": "саха тыла",
+      "dir": "ltr",
+      "views": 152491
+    },
+    {
+      "code": "sat",
+      "dbname": "satwiki",
+      "url": "https://sat.wikipedia.org",
+      "langName": "ᱥᱟᱱᱛᱟᱲᱤ",
+      "dir": "ltr",
+      "views": 63849
+    },
+    {
+      "code": "sc",
+      "dbname": "scwiki",
+      "url": "https://sc.wikipedia.org",
+      "langName": "sardu",
+      "dir": "ltr",
+      "views": 122983
+    },
+    {
+      "code": "scn",
+      "dbname": "scnwiki",
+      "url": "https://scn.wikipedia.org",
+      "langName": "sicilianu",
+      "dir": "ltr",
+      "views": 210363
+    },
+    {
+      "code": "sco",
+      "dbname": "scowiki",
+      "url": "https://sco.wikipedia.org",
+      "langName": "Scots",
+      "dir": "ltr",
+      "views": 546260
+    },
+    {
+      "code": "sd",
+      "dbname": "sdwiki",
+      "url": "https://sd.wikipedia.org",
+      "langName": "سنڌي",
+      "dir": "rtl",
+      "views": 147923
+    },
+    {
+      "code": "se",
+      "dbname": "sewiki",
+      "url": "https://se.wikipedia.org",
+      "langName": "davvisámegiella",
+      "dir": "ltr",
+      "views": 93238
+    },
+    {
+      "code": "sg",
+      "dbname": "sgwiki",
+      "url": "https://sg.wikipedia.org",
+      "langName": "Sängö",
+      "dir": "ltr",
+      "views": 34086
+    },
+    {
+      "code": "sh",
+      "dbname": "shwiki",
+      "url": "https://sh.wikipedia.org",
+      "langName": "srpskohrvatski / српскохрватски",
+      "dir": "ltr",
+      "views": 5329173
+    },
+    {
+      "code": "shn",
+      "dbname": "shnwiki",
+      "url": "https://shn.wikipedia.org",
+      "langName": "ၽႃႇသႃႇတႆး ",
+      "dir": "ltr",
+      "views": 51745
+    },
+    {
+      "code": "si",
+      "dbname": "siwiki",
+      "url": "https://si.wikipedia.org",
+      "langName": "සිංහල",
+      "dir": "ltr",
+      "views": 1962794
+    },
+    {
+      "code": "simple",
+      "dbname": "simplewiki",
+      "url": "https://simple.wikipedia.org",
+      "langName": "Simple English",
+      "dir": "ltr",
+      "views": 14207270
+    },
+    {
+      "code": "sk",
+      "dbname": "skwiki",
+      "url": "https://sk.wikipedia.org",
+      "langName": "slovenčina",
+      "dir": "ltr",
+      "views": 17236053
+    },
+    {
+      "code": "skr",
+      "dbname": "skrwiki",
+      "url": "https://skr.wikipedia.org",
+      "langName": "سرائیکی",
+      "dir": "rtl",
+      "views": 21795
+    },
+    {
+      "code": "sl",
+      "dbname": "slwiki",
+      "url": "https://sl.wikipedia.org",
+      "langName": "slovenščina",
+      "dir": "ltr",
+      "views": 8372668
+    },
+    {
+      "code": "sm",
+      "dbname": "smwiki",
+      "url": "https://sm.wikipedia.org",
+      "langName": "Gagana Samoa",
+      "dir": "ltr",
+      "views": 57197
+    },
+    {
+      "code": "smn",
+      "dbname": "smnwiki",
+      "url": "https://smn.wikipedia.org",
+      "langName": "anarâškielâ",
+      "dir": "ltr",
+      "views": 57462
+    },
+    {
+      "code": "sn",
+      "dbname": "snwiki",
+      "url": "https://sn.wikipedia.org",
+      "langName": "chiShona",
+      "dir": "ltr",
+      "views": 144249
+    },
+    {
+      "code": "so",
+      "dbname": "sowiki",
+      "url": "https://so.wikipedia.org",
+      "langName": "Soomaaliga",
+      "dir": "ltr",
+      "views": 423726
+    },
+    {
+      "code": "sq",
+      "dbname": "sqwiki",
+      "url": "https://sq.wikipedia.org",
+      "langName": "shqip",
+      "dir": "ltr",
+      "views": 6518189
+    },
+    {
+      "code": "sr",
+      "dbname": "srwiki",
+      "url": "https://sr.wikipedia.org",
+      "langName": "српски / srpski",
+      "dir": "ltr",
+      "views": 29890199
+    },
+    {
+      "code": "srn",
+      "dbname": "srnwiki",
+      "url": "https://srn.wikipedia.org",
+      "langName": "Sranantongo",
+      "dir": "ltr",
+      "views": 37199
+    },
+    {
+      "code": "ss",
+      "dbname": "sswiki",
+      "url": "https://ss.wikipedia.org",
+      "langName": "SiSwati",
+      "dir": "ltr",
+      "views": 43175
+    },
+    {
+      "code": "st",
+      "dbname": "stwiki",
+      "url": "https://st.wikipedia.org",
+      "langName": "Sesotho",
+      "dir": "ltr",
+      "views": 52622
+    },
+    {
+      "code": "stq",
+      "dbname": "stqwiki",
+      "url": "https://stq.wikipedia.org",
+      "langName": "Seeltersk",
+      "dir": "ltr",
+      "views": 74263
+    },
+    {
+      "code": "su",
+      "dbname": "suwiki",
+      "url": "https://su.wikipedia.org",
+      "langName": "Sunda",
+      "dir": "ltr",
+      "views": 229741
+    },
+    {
+      "code": "sv",
+      "dbname": "svwiki",
+      "url": "https://sv.wikipedia.org",
+      "langName": "svenska",
+      "dir": "ltr",
+      "views": 92359569
+    },
+    {
+      "code": "sw",
+      "dbname": "swwiki",
+      "url": "https://sw.wikipedia.org",
+      "langName": "Kiswahili",
+      "dir": "ltr",
+      "views": 2212783
+    },
+    {
+      "code": "szl",
+      "dbname": "szlwiki",
+      "url": "https://szl.wikipedia.org",
+      "langName": "ślůnski",
+      "dir": "ltr",
+      "views": 118181
+    },
+    {
+      "code": "szy",
+      "dbname": "szywiki",
+      "url": "https://szy.wikipedia.org",
+      "langName": "Sakizaya",
+      "dir": "ltr",
+      "views": 31702
+    },
+    {
+      "code": "ta",
+      "dbname": "tawiki",
+      "url": "https://ta.wikipedia.org",
+      "langName": "தமிழ்",
+      "dir": "ltr",
+      "views": 11019802
+    },
+    {
+      "code": "tay",
+      "dbname": "taywiki",
+      "url": "https://tay.wikipedia.org",
+      "langName": "Tayal",
+      "dir": "ltr",
+      "views": 17540
+    },
+    {
+      "code": "tcy",
+      "dbname": "tcywiki",
+      "url": "https://tcy.wikipedia.org",
+      "langName": "ತುಳು",
+      "dir": "ltr",
+      "views": 54504
+    },
+    {
+      "code": "te",
+      "dbname": "tewiki",
+      "url": "https://te.wikipedia.org",
+      "langName": "తెలుగు",
+      "dir": "ltr",
+      "views": 4097901
+    },
+    {
+      "code": "tet",
+      "dbname": "tetwiki",
+      "url": "https://tet.wikipedia.org",
+      "langName": "tetun",
+      "dir": "ltr",
+      "views": 65857
+    },
+    {
+      "code": "tg",
+      "dbname": "tgwiki",
+      "url": "https://tg.wikipedia.org",
+      "langName": "тоҷикӣ",
+      "dir": "ltr",
+      "views": 564045
+    },
+    {
+      "code": "th",
+      "dbname": "thwiki",
+      "url": "https://th.wikipedia.org",
+      "langName": "ไทย",
+      "dir": "ltr",
+      "views": 50686795
+    },
+    {
+      "code": "ti",
+      "dbname": "tiwiki",
+      "url": "https://ti.wikipedia.org",
+      "langName": "ትግርኛ",
+      "dir": "ltr",
+      "views": 40722
+    },
+    {
+      "code": "tk",
+      "dbname": "tkwiki",
+      "url": "https://tk.wikipedia.org",
+      "langName": "Türkmençe",
+      "dir": "ltr",
+      "views": 251356
+    },
+    {
+      "code": "tl",
+      "dbname": "tlwiki",
+      "url": "https://tl.wikipedia.org",
+      "langName": "Tagalog",
+      "dir": "ltr",
+      "views": 5386760
+    },
+    {
+      "code": "tn",
+      "dbname": "tnwiki",
+      "url": "https://tn.wikipedia.org",
+      "langName": "Setswana",
+      "dir": "ltr",
+      "views": 81816
+    },
+    {
+      "code": "to",
+      "dbname": "towiki",
+      "url": "https://to.wikipedia.org",
+      "langName": "lea faka-Tonga",
+      "dir": "ltr",
+      "views": 47123
+    },
+    {
+      "code": "tpi",
+      "dbname": "tpiwiki",
+      "url": "https://tpi.wikipedia.org",
+      "langName": "Tok Pisin",
+      "dir": "ltr",
+      "views": 54193
+    },
+    {
+      "code": "tr",
+      "dbname": "trwiki",
+      "url": "https://tr.wikipedia.org",
+      "langName": "Türkçe",
+      "dir": "ltr",
+      "views": 152466923
+    },
+    {
+      "code": "trv",
+      "dbname": "trvwiki",
+      "url": "https://trv.wikipedia.org",
+      "langName": "Seediq",
+      "dir": "ltr",
+      "views": 15279
+    },
+    {
+      "code": "ts",
+      "dbname": "tswiki",
+      "url": "https://ts.wikipedia.org",
+      "langName": "Xitsonga",
+      "dir": "ltr",
+      "views": 65378
+    },
+    {
+      "code": "tt",
+      "dbname": "ttwiki",
+      "url": "https://tt.wikipedia.org",
+      "langName": "татарча/tatarça",
+      "dir": "ltr",
+      "views": 310554
+    },
+    {
+      "code": "tum",
+      "dbname": "tumwiki",
+      "url": "https://tum.wikipedia.org",
+      "langName": "chiTumbuka",
+      "dir": "ltr",
+      "views": 36212
+    },
+    {
+      "code": "tw",
+      "dbname": "twwiki",
+      "url": "https://tw.wikipedia.org",
+      "langName": "Twi",
+      "dir": "ltr",
+      "views": 43917
+    },
+    {
+      "code": "ty",
+      "dbname": "tywiki",
+      "url": "https://ty.wikipedia.org",
+      "langName": "reo tahiti",
+      "dir": "ltr",
+      "views": 31670
+    },
+    {
+      "code": "tyv",
+      "dbname": "tyvwiki",
+      "url": "https://tyv.wikipedia.org",
+      "langName": "тыва дыл",
+      "dir": "ltr",
+      "views": 50752
+    },
+    {
+      "code": "udm",
+      "dbname": "udmwiki",
+      "url": "https://udm.wikipedia.org",
+      "langName": "удмурт",
+      "dir": "ltr",
+      "views": 72909
+    },
+    {
+      "code": "ug",
+      "dbname": "ugwiki",
+      "url": "https://ug.wikipedia.org",
+      "langName": "ئۇيغۇرچە / Uyghurche",
+      "dir": "rtl",
+      "views": 87301
+    },
+    {
+      "code": "uk",
+      "dbname": "ukwiki",
+      "url": "https://uk.wikipedia.org",
+      "langName": "українська",
+      "dir": "ltr",
+      "views": 77212514
+    },
+    {
+      "code": "ur",
+      "dbname": "urwiki",
+      "url": "https://ur.wikipedia.org",
+      "langName": "اردو",
+      "dir": "rtl",
+      "views": 3183401
+    },
+    {
+      "code": "uz",
+      "dbname": "uzwiki",
+      "url": "https://uz.wikipedia.org",
+      "langName": "oʻzbekcha/ўзбекча",
+      "dir": "ltr",
+      "views": 5898140
+    },
+    {
+      "code": "ve",
+      "dbname": "vewiki",
+      "url": "https://ve.wikipedia.org",
+      "langName": "Tshivenda",
+      "dir": "ltr",
+      "views": 43296
+    },
+    {
+      "code": "vec",
+      "dbname": "vecwiki",
+      "url": "https://vec.wikipedia.org",
+      "langName": "vèneto",
+      "dir": "ltr",
+      "views": 279376
+    },
+    {
+      "code": "vep",
+      "dbname": "vepwiki",
+      "url": "https://vep.wikipedia.org",
+      "langName": "vepsän kel’",
+      "dir": "ltr",
+      "views": 86989
+    },
+    {
+      "code": "vi",
+      "dbname": "viwiki",
+      "url": "https://vi.wikipedia.org",
+      "langName": "Tiếng Việt",
+      "dir": "ltr",
+      "views": 77875071
+    },
+    {
+      "code": "vls",
+      "dbname": "vlswiki",
+      "url": "https://vls.wikipedia.org",
+      "langName": "West-Vlams",
+      "dir": "ltr",
+      "views": 126338
+    },
+    {
+      "code": "vo",
+      "dbname": "vowiki",
+      "url": "https://vo.wikipedia.org",
+      "langName": "Volapük",
+      "dir": "ltr",
+      "views": 119952
+    },
+    {
+      "code": "wa",
+      "dbname": "wawiki",
+      "url": "https://wa.wikipedia.org",
+      "langName": "walon",
+      "dir": "ltr",
+      "views": 188185
+    },
+    {
+      "code": "war",
+      "dbname": "warwiki",
+      "url": "https://war.wikipedia.org",
+      "langName": "Winaray",
+      "dir": "ltr",
+      "views": 476971
+    },
+    {
+      "code": "wo",
+      "dbname": "wowiki",
+      "url": "https://wo.wikipedia.org",
+      "langName": "Wolof",
+      "dir": "ltr",
+      "views": 52904
+    },
+    {
+      "code": "wuu",
+      "dbname": "wuuwiki",
+      "url": "https://wuu.wikipedia.org",
+      "langName": "吴语",
+      "dir": "ltr",
+      "views": 333037
+    },
+    {
+      "code": "xal",
+      "dbname": "xalwiki",
+      "url": "https://xal.wikipedia.org",
+      "langName": "хальмг",
+      "dir": "ltr",
+      "views": 54444
+    },
+    {
+      "code": "xh",
+      "dbname": "xhwiki",
+      "url": "https://xh.wikipedia.org",
+      "langName": "isiXhosa",
+      "dir": "ltr",
+      "views": 101826
+    },
+    {
+      "code": "xmf",
+      "dbname": "xmfwiki",
+      "url": "https://xmf.wikipedia.org",
+      "langName": "მარგალური",
+      "dir": "ltr",
+      "views": 144325
+    },
+    {
+      "code": "yi",
+      "dbname": "yiwiki",
+      "url": "https://yi.wikipedia.org",
+      "langName": "ייִדיש",
+      "dir": "rtl",
+      "views": 206133
+    },
+    {
+      "code": "yo",
+      "dbname": "yowiki",
+      "url": "https://yo.wikipedia.org",
+      "langName": "Yorùbá",
+      "dir": "ltr",
+      "views": 134583
+    },
+    {
+      "code": "za",
+      "dbname": "zawiki",
+      "url": "https://za.wikipedia.org",
+      "langName": "Vahcuengh",
+      "dir": "ltr",
+      "views": 54888
+    },
+    {
+      "code": "zea",
+      "dbname": "zeawiki",
+      "url": "https://zea.wikipedia.org",
+      "langName": "Zeêuws",
+      "dir": "ltr",
+      "views": 68572
+    },
+    {
+      "code": "zh",
+      "dbname": "zhwiki",
+      "url": "https://zh.wikipedia.org",
+      "langName": "中文",
+      "dir": "ltr",
+      "views": 553261361
+    },
+    {
+      "code": "zh-classical",
+      "dbname": "zh_classicalwiki",
+      "url": "https://zh-classical.wikipedia.org",
+      "langName": "文言",
+      "dir": "ltr",
+      "views": 147940
+    },
+    {
+      "code": "zh-min-nan",
+      "dbname": "zh_min_nanwiki",
+      "url": "https://zh-min-nan.wikipedia.org",
+      "langName": "Bân-lâm-gú",
+      "dir": "ltr",
+      "views": 274739
+    },
+    {
+      "code": "zh-yue",
+      "dbname": "zh_yuewiki",
+      "url": "https://zh-yue.wikipedia.org",
+      "langName": "粵語",
+      "dir": "ltr",
+      "views": 3519586
+    },
+    {
+      "code": "zu",
+      "dbname": "zuwiki",
+      "url": "https://zu.wikipedia.org",
+      "langName": "isiZulu",
+      "dir": "ltr",
+      "views": 132368
+    }
+  ],
+  "wiktionary": [
+    {
+      "code": "af",
+      "dbname": "afwiktionary",
+      "url": "https://af.wiktionary.org",
+      "langName": "Afrikaans",
+      "dir": "ltr"
+    },
+    {
+      "code": "am",
+      "dbname": "amwiktionary",
+      "url": "https://am.wiktionary.org",
+      "langName": "አማርኛ",
+      "dir": "ltr"
+    },
+    {
+      "code": "an",
+      "dbname": "anwiktionary",
+      "url": "https://an.wiktionary.org",
+      "langName": "aragonés",
+      "dir": "ltr"
+    },
+    {
+      "code": "ang",
+      "dbname": "angwiktionary",
+      "url": "https://ang.wiktionary.org",
+      "langName": "Ænglisc",
+      "dir": "ltr"
+    },
+    {
+      "code": "ar",
+      "dbname": "arwiktionary",
+      "url": "https://ar.wiktionary.org",
+      "langName": "العربية",
+      "dir": "rtl"
+    },
+    {
+      "code": "ast",
+      "dbname": "astwiktionary",
+      "url": "https://ast.wiktionary.org",
+      "langName": "asturianu",
+      "dir": "ltr"
+    },
+    {
+      "code": "ay",
+      "dbname": "aywiktionary",
+      "url": "https://ay.wiktionary.org",
+      "langName": "Aymar aru",
+      "dir": "ltr"
+    },
+    {
+      "code": "az",
+      "dbname": "azwiktionary",
+      "url": "https://az.wiktionary.org",
+      "langName": "azərbaycanca",
+      "dir": "ltr"
+    },
+    {
+      "code": "bcl",
+      "dbname": "bclwiktionary",
+      "url": "https://bcl.wiktionary.org",
+      "langName": "Bikol Central",
+      "dir": "ltr"
+    },
+    {
+      "code": "be",
+      "dbname": "bewiktionary",
+      "url": "https://be.wiktionary.org",
+      "langName": "беларуская",
+      "dir": "ltr"
+    },
+    {
+      "code": "bg",
+      "dbname": "bgwiktionary",
+      "url": "https://bg.wiktionary.org",
+      "langName": "български",
+      "dir": "ltr"
+    },
+    {
+      "code": "bn",
+      "dbname": "bnwiktionary",
+      "url": "https://bn.wiktionary.org",
+      "langName": "বাংলা",
+      "dir": "ltr"
+    },
+    {
+      "code": "br",
+      "dbname": "brwiktionary",
+      "url": "https://br.wiktionary.org",
+      "langName": "brezhoneg",
+      "dir": "ltr"
+    },
+    {
+      "code": "bs",
+      "dbname": "bswiktionary",
+      "url": "https://bs.wiktionary.org",
+      "langName": "bosanski",
+      "dir": "ltr"
+    },
+    {
+      "code": "ca",
+      "dbname": "cawiktionary",
+      "url": "https://ca.wiktionary.org",
+      "langName": "català",
+      "dir": "ltr"
+    },
+    {
+      "code": "chr",
+      "dbname": "chrwiktionary",
+      "url": "https://chr.wiktionary.org",
+      "langName": "ᏣᎳᎩ",
+      "dir": "ltr"
+    },
+    {
+      "code": "co",
+      "dbname": "cowiktionary",
+      "url": "https://co.wiktionary.org",
+      "langName": "corsu",
+      "dir": "ltr"
+    },
+    {
+      "code": "cs",
+      "dbname": "cswiktionary",
+      "url": "https://cs.wiktionary.org",
+      "langName": "čeština",
+      "dir": "ltr"
+    },
+    {
+      "code": "csb",
+      "dbname": "csbwiktionary",
+      "url": "https://csb.wiktionary.org",
+      "langName": "kaszëbsczi",
+      "dir": "ltr"
+    },
+    {
+      "code": "cy",
+      "dbname": "cywiktionary",
+      "url": "https://cy.wiktionary.org",
+      "langName": "Cymraeg",
+      "dir": "ltr"
+    },
+    {
+      "code": "da",
+      "dbname": "dawiktionary",
+      "url": "https://da.wiktionary.org",
+      "langName": "dansk",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "dbname": "dewiktionary",
+      "url": "https://de.wiktionary.org",
+      "langName": "Deutsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "diq",
+      "dbname": "diqwiktionary",
+      "url": "https://diq.wiktionary.org",
+      "langName": "Zazaki",
+      "dir": "ltr"
+    },
+    {
+      "code": "dv",
+      "dbname": "dvwiktionary",
+      "url": "https://dv.wiktionary.org",
+      "langName": "ދިވެހިބަސް",
+      "dir": "rtl"
+    },
+    {
+      "code": "el",
+      "dbname": "elwiktionary",
+      "url": "https://el.wiktionary.org",
+      "langName": "Ελληνικά",
+      "dir": "ltr"
+    },
+    {
+      "code": "en",
+      "dbname": "enwiktionary",
+      "url": "https://en.wiktionary.org",
+      "langName": "English",
+      "dir": "ltr"
+    },
+    {
+      "code": "eo",
+      "dbname": "eowiktionary",
+      "url": "https://eo.wiktionary.org",
+      "langName": "Esperanto",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "dbname": "eswiktionary",
+      "url": "https://es.wiktionary.org",
+      "langName": "español",
+      "dir": "ltr"
+    },
+    {
+      "code": "et",
+      "dbname": "etwiktionary",
+      "url": "https://et.wiktionary.org",
+      "langName": "eesti",
+      "dir": "ltr"
+    },
+    {
+      "code": "eu",
+      "dbname": "euwiktionary",
+      "url": "https://eu.wiktionary.org",
+      "langName": "euskara",
+      "dir": "ltr"
+    },
+    {
+      "code": "fa",
+      "dbname": "fawiktionary",
+      "url": "https://fa.wiktionary.org",
+      "langName": "فارسی",
+      "dir": "rtl"
+    },
+    {
+      "code": "fi",
+      "dbname": "fiwiktionary",
+      "url": "https://fi.wiktionary.org",
+      "langName": "suomi",
+      "dir": "ltr"
+    },
+    {
+      "code": "fj",
+      "dbname": "fjwiktionary",
+      "url": "https://fj.wiktionary.org",
+      "langName": "Na Vosa Vakaviti",
+      "dir": "ltr"
+    },
+    {
+      "code": "fo",
+      "dbname": "fowiktionary",
+      "url": "https://fo.wiktionary.org",
+      "langName": "føroyskt",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "dbname": "frwiktionary",
+      "url": "https://fr.wiktionary.org",
+      "langName": "français",
+      "dir": "ltr"
+    },
+    {
+      "code": "fy",
+      "dbname": "fywiktionary",
+      "url": "https://fy.wiktionary.org",
+      "langName": "Frysk",
+      "dir": "ltr"
+    },
+    {
+      "code": "ga",
+      "dbname": "gawiktionary",
+      "url": "https://ga.wiktionary.org",
+      "langName": "Gaeilge",
+      "dir": "ltr"
+    },
+    {
+      "code": "gd",
+      "dbname": "gdwiktionary",
+      "url": "https://gd.wiktionary.org",
+      "langName": "Gàidhlig",
+      "dir": "ltr"
+    },
+    {
+      "code": "gl",
+      "dbname": "glwiktionary",
+      "url": "https://gl.wiktionary.org",
+      "langName": "galego",
+      "dir": "ltr"
+    },
+    {
+      "code": "gn",
+      "dbname": "gnwiktionary",
+      "url": "https://gn.wiktionary.org",
+      "langName": "Avañe'ẽ",
+      "dir": "ltr"
+    },
+    {
+      "code": "gom",
+      "dbname": "gomwiktionary",
+      "url": "https://gom.wiktionary.org",
+      "langName": "गोंयची कोंकणी / Gõychi Konknni",
+      "dir": "ltr"
+    },
+    {
+      "code": "gu",
+      "dbname": "guwiktionary",
+      "url": "https://gu.wiktionary.org",
+      "langName": "ગુજરાતી",
+      "dir": "ltr"
+    },
+    {
+      "code": "gv",
+      "dbname": "gvwiktionary",
+      "url": "https://gv.wiktionary.org",
+      "langName": "Gaelg",
+      "dir": "ltr"
+    },
+    {
+      "code": "ha",
+      "dbname": "hawiktionary",
+      "url": "https://ha.wiktionary.org",
+      "langName": "Hausa",
+      "dir": "ltr"
+    },
+    {
+      "code": "he",
+      "dbname": "hewiktionary",
+      "url": "https://he.wiktionary.org",
+      "langName": "עברית",
+      "dir": "rtl"
+    },
+    {
+      "code": "hi",
+      "dbname": "hiwiktionary",
+      "url": "https://hi.wiktionary.org",
+      "langName": "हिन्दी",
+      "dir": "ltr"
+    },
+    {
+      "code": "hif",
+      "dbname": "hifwiktionary",
+      "url": "https://hif.wiktionary.org",
+      "langName": "Fiji Hindi",
+      "dir": "ltr"
+    },
+    {
+      "code": "hr",
+      "dbname": "hrwiktionary",
+      "url": "https://hr.wiktionary.org",
+      "langName": "hrvatski",
+      "dir": "ltr"
+    },
+    {
+      "code": "hsb",
+      "dbname": "hsbwiktionary",
+      "url": "https://hsb.wiktionary.org",
+      "langName": "hornjoserbsce",
+      "dir": "ltr"
+    },
+    {
+      "code": "hu",
+      "dbname": "huwiktionary",
+      "url": "https://hu.wiktionary.org",
+      "langName": "magyar",
+      "dir": "ltr"
+    },
+    {
+      "code": "hy",
+      "dbname": "hywiktionary",
+      "url": "https://hy.wiktionary.org",
+      "langName": "հայերեն",
+      "dir": "ltr"
+    },
+    {
+      "code": "ia",
+      "dbname": "iawiktionary",
+      "url": "https://ia.wiktionary.org",
+      "langName": "interlingua",
+      "dir": "ltr"
+    },
+    {
+      "code": "id",
+      "dbname": "idwiktionary",
+      "url": "https://id.wiktionary.org",
+      "langName": "Bahasa Indonesia",
+      "dir": "ltr"
+    },
+    {
+      "code": "ie",
+      "dbname": "iewiktionary",
+      "url": "https://ie.wiktionary.org",
+      "langName": "Interlingue",
+      "dir": "ltr"
+    },
+    {
+      "code": "io",
+      "dbname": "iowiktionary",
+      "url": "https://io.wiktionary.org",
+      "langName": "Ido",
+      "dir": "ltr"
+    },
+    {
+      "code": "is",
+      "dbname": "iswiktionary",
+      "url": "https://is.wiktionary.org",
+      "langName": "íslenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "it",
+      "dbname": "itwiktionary",
+      "url": "https://it.wiktionary.org",
+      "langName": "italiano",
+      "dir": "ltr"
+    },
+    {
+      "code": "iu",
+      "dbname": "iuwiktionary",
+      "url": "https://iu.wiktionary.org",
+      "langName": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "dbname": "jawiktionary",
+      "url": "https://ja.wiktionary.org",
+      "langName": "日本語",
+      "dir": "ltr"
+    },
+    {
+      "code": "jbo",
+      "dbname": "jbowiktionary",
+      "url": "https://jbo.wiktionary.org",
+      "langName": "la .lojban.",
+      "dir": "ltr"
+    },
+    {
+      "code": "jv",
+      "dbname": "jvwiktionary",
+      "url": "https://jv.wiktionary.org",
+      "langName": "Jawa",
+      "dir": "ltr"
+    },
+    {
+      "code": "ka",
+      "dbname": "kawiktionary",
+      "url": "https://ka.wiktionary.org",
+      "langName": "ქართული",
+      "dir": "ltr"
+    },
+    {
+      "code": "kk",
+      "dbname": "kkwiktionary",
+      "url": "https://kk.wiktionary.org",
+      "langName": "қазақша",
+      "dir": "ltr"
+    },
+    {
+      "code": "kl",
+      "dbname": "klwiktionary",
+      "url": "https://kl.wiktionary.org",
+      "langName": "kalaallisut",
+      "dir": "ltr"
+    },
+    {
+      "code": "km",
+      "dbname": "kmwiktionary",
+      "url": "https://km.wiktionary.org",
+      "langName": "ភាសាខ្មែរ",
+      "dir": "ltr"
+    },
+    {
+      "code": "kn",
+      "dbname": "knwiktionary",
+      "url": "https://kn.wiktionary.org",
+      "langName": "ಕನ್ನಡ",
+      "dir": "ltr"
+    },
+    {
+      "code": "ko",
+      "dbname": "kowiktionary",
+      "url": "https://ko.wiktionary.org",
+      "langName": "한국어",
+      "dir": "ltr"
+    },
+    {
+      "code": "ks",
+      "dbname": "kswiktionary",
+      "url": "https://ks.wiktionary.org",
+      "langName": "कॉशुर / کٲشُر",
+      "dir": "rtl"
+    },
+    {
+      "code": "ku",
+      "dbname": "kuwiktionary",
+      "url": "https://ku.wiktionary.org",
+      "langName": "kurdî",
+      "dir": "ltr"
+    },
+    {
+      "code": "kw",
+      "dbname": "kwwiktionary",
+      "url": "https://kw.wiktionary.org",
+      "langName": "kernowek",
+      "dir": "ltr"
+    },
+    {
+      "code": "ky",
+      "dbname": "kywiktionary",
+      "url": "https://ky.wiktionary.org",
+      "langName": "Кыргызча",
+      "dir": "ltr"
+    },
+    {
+      "code": "la",
+      "dbname": "lawiktionary",
+      "url": "https://la.wiktionary.org",
+      "langName": "Latina",
+      "dir": "ltr"
+    },
+    {
+      "code": "lb",
+      "dbname": "lbwiktionary",
+      "url": "https://lb.wiktionary.org",
+      "langName": "Lëtzebuergesch",
+      "dir": "ltr"
+    },
+    {
+      "code": "li",
+      "dbname": "liwiktionary",
+      "url": "https://li.wiktionary.org",
+      "langName": "Limburgs",
+      "dir": "ltr"
+    },
+    {
+      "code": "ln",
+      "dbname": "lnwiktionary",
+      "url": "https://ln.wiktionary.org",
+      "langName": "lingála",
+      "dir": "ltr"
+    },
+    {
+      "code": "lo",
+      "dbname": "lowiktionary",
+      "url": "https://lo.wiktionary.org",
+      "langName": "ລາວ",
+      "dir": "ltr"
+    },
+    {
+      "code": "lt",
+      "dbname": "ltwiktionary",
+      "url": "https://lt.wiktionary.org",
+      "langName": "lietuvių",
+      "dir": "ltr"
+    },
+    {
+      "code": "lv",
+      "dbname": "lvwiktionary",
+      "url": "https://lv.wiktionary.org",
+      "langName": "latviešu",
+      "dir": "ltr"
+    },
+    {
+      "code": "mg",
+      "dbname": "mgwiktionary",
+      "url": "https://mg.wiktionary.org",
+      "langName": "Malagasy",
+      "dir": "ltr"
+    },
+    {
+      "code": "mi",
+      "dbname": "miwiktionary",
+      "url": "https://mi.wiktionary.org",
+      "langName": "Māori",
+      "dir": "ltr"
+    },
+    {
+      "code": "min",
+      "dbname": "minwiktionary",
+      "url": "https://min.wiktionary.org",
+      "langName": "Minangkabau",
+      "dir": "ltr"
+    },
+    {
+      "code": "mk",
+      "dbname": "mkwiktionary",
+      "url": "https://mk.wiktionary.org",
+      "langName": "македонски",
+      "dir": "ltr"
+    },
+    {
+      "code": "ml",
+      "dbname": "mlwiktionary",
+      "url": "https://ml.wiktionary.org",
+      "langName": "മലയാളം",
+      "dir": "ltr"
+    },
+    {
+      "code": "mn",
+      "dbname": "mnwiktionary",
+      "url": "https://mn.wiktionary.org",
+      "langName": "монгол",
+      "dir": "ltr"
+    },
+    {
+      "code": "mni",
+      "dbname": "mniwiktionary",
+      "url": "https://mni.wiktionary.org",
+      "langName": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+      "dir": "ltr"
+    },
+    {
+      "code": "mnw",
+      "dbname": "mnwwiktionary",
+      "url": "https://mnw.wiktionary.org",
+      "langName": "ဘာသာ မန်",
+      "dir": "ltr"
+    },
+    {
+      "code": "mr",
+      "dbname": "mrwiktionary",
+      "url": "https://mr.wiktionary.org",
+      "langName": "मराठी",
+      "dir": "ltr"
+    },
+    {
+      "code": "ms",
+      "dbname": "mswiktionary",
+      "url": "https://ms.wiktionary.org",
+      "langName": "Bahasa Melayu",
+      "dir": "ltr"
+    },
+    {
+      "code": "mt",
+      "dbname": "mtwiktionary",
+      "url": "https://mt.wiktionary.org",
+      "langName": "Malti",
+      "dir": "ltr"
+    },
+    {
+      "code": "my",
+      "dbname": "mywiktionary",
+      "url": "https://my.wiktionary.org",
+      "langName": "မြန်မာဘာသာ",
+      "dir": "ltr"
+    },
+    {
+      "code": "na",
+      "dbname": "nawiktionary",
+      "url": "https://na.wiktionary.org",
+      "langName": "Dorerin Naoero",
+      "dir": "ltr"
+    },
+    {
+      "code": "nah",
+      "dbname": "nahwiktionary",
+      "url": "https://nah.wiktionary.org",
+      "langName": "Nāhuatl",
+      "dir": "ltr"
+    },
+    {
+      "code": "nds",
+      "dbname": "ndswiktionary",
+      "url": "https://nds.wiktionary.org",
+      "langName": "Plattdüütsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "ne",
+      "dbname": "newiktionary",
+      "url": "https://ne.wiktionary.org",
+      "langName": "नेपाली",
+      "dir": "ltr"
+    },
+    {
+      "code": "nia",
+      "dbname": "niawiktionary",
+      "url": "https://nia.wiktionary.org",
+      "langName": "Li Niha",
+      "dir": "ltr"
+    },
+    {
+      "code": "nl",
+      "dbname": "nlwiktionary",
+      "url": "https://nl.wiktionary.org",
+      "langName": "Nederlands",
+      "dir": "ltr"
+    },
+    {
+      "code": "nn",
+      "dbname": "nnwiktionary",
+      "url": "https://nn.wiktionary.org",
+      "langName": "norsk nynorsk",
+      "dir": "ltr"
+    },
+    {
+      "code": "no",
+      "dbname": "nowiktionary",
+      "url": "https://no.wiktionary.org",
+      "langName": "norsk",
+      "dir": "ltr"
+    },
+    {
+      "code": "oc",
+      "dbname": "ocwiktionary",
+      "url": "https://oc.wiktionary.org",
+      "langName": "occitan",
+      "dir": "ltr"
+    },
+    {
+      "code": "om",
+      "dbname": "omwiktionary",
+      "url": "https://om.wiktionary.org",
+      "langName": "Oromoo",
+      "dir": "ltr"
+    },
+    {
+      "code": "or",
+      "dbname": "orwiktionary",
+      "url": "https://or.wiktionary.org",
+      "langName": "ଓଡ଼ିଆ",
+      "dir": "ltr"
+    },
+    {
+      "code": "pa",
+      "dbname": "pawiktionary",
+      "url": "https://pa.wiktionary.org",
+      "langName": "ਪੰਜਾਬੀ",
+      "dir": "ltr"
+    },
+    {
+      "code": "pl",
+      "dbname": "plwiktionary",
+      "url": "https://pl.wiktionary.org",
+      "langName": "polski",
+      "dir": "ltr"
+    },
+    {
+      "code": "pnb",
+      "dbname": "pnbwiktionary",
+      "url": "https://pnb.wiktionary.org",
+      "langName": "پنجابی",
+      "dir": "rtl"
+    },
+    {
+      "code": "ps",
+      "dbname": "pswiktionary",
+      "url": "https://ps.wiktionary.org",
+      "langName": "پښتو",
+      "dir": "rtl"
+    },
+    {
+      "code": "pt",
+      "dbname": "ptwiktionary",
+      "url": "https://pt.wiktionary.org",
+      "langName": "português",
+      "dir": "ltr"
+    },
+    {
+      "code": "qu",
+      "dbname": "quwiktionary",
+      "url": "https://qu.wiktionary.org",
+      "langName": "Runa Simi",
+      "dir": "ltr"
+    },
+    {
+      "code": "ro",
+      "dbname": "rowiktionary",
+      "url": "https://ro.wiktionary.org",
+      "langName": "română",
+      "dir": "ltr"
+    },
+    {
+      "code": "roa-rup",
+      "dbname": "roa_rupwiktionary",
+      "url": "https://roa-rup.wiktionary.org",
+      "langName": "armãneashti",
+      "dir": "ltr"
+    },
+    {
+      "code": "ru",
+      "dbname": "ruwiktionary",
+      "url": "https://ru.wiktionary.org",
+      "langName": "русский",
+      "dir": "ltr"
+    },
+    {
+      "code": "rw",
+      "dbname": "rwwiktionary",
+      "url": "https://rw.wiktionary.org",
+      "langName": "Ikinyarwanda",
+      "dir": "ltr"
+    },
+    {
+      "code": "sa",
+      "dbname": "sawiktionary",
+      "url": "https://sa.wiktionary.org",
+      "langName": "संस्कृतम्",
+      "dir": "ltr"
+    },
+    {
+      "code": "scn",
+      "dbname": "scnwiktionary",
+      "url": "https://scn.wiktionary.org",
+      "langName": "sicilianu",
+      "dir": "ltr"
+    },
+    {
+      "code": "sd",
+      "dbname": "sdwiktionary",
+      "url": "https://sd.wiktionary.org",
+      "langName": "سنڌي",
+      "dir": "rtl"
+    },
+    {
+      "code": "sg",
+      "dbname": "sgwiktionary",
+      "url": "https://sg.wiktionary.org",
+      "langName": "Sängö",
+      "dir": "ltr"
+    },
+    {
+      "code": "sh",
+      "dbname": "shwiktionary",
+      "url": "https://sh.wiktionary.org",
+      "langName": "srpskohrvatski / српскохрватски",
+      "dir": "ltr"
+    },
+    {
+      "code": "shn",
+      "dbname": "shnwiktionary",
+      "url": "https://shn.wiktionary.org",
+      "langName": "ၽႃႇသႃႇတႆး ",
+      "dir": "ltr"
+    },
+    {
+      "code": "shy",
+      "dbname": "shywiktionary",
+      "url": "https://shy.wiktionary.org",
+      "langName": "tacawit",
+      "dir": "ltr"
+    },
+    {
+      "code": "si",
+      "dbname": "siwiktionary",
+      "url": "https://si.wiktionary.org",
+      "langName": "සිංහල",
+      "dir": "ltr"
+    },
+    {
+      "code": "simple",
+      "dbname": "simplewiktionary",
+      "url": "https://simple.wiktionary.org",
+      "langName": "Simple English",
+      "dir": "ltr"
+    },
+    {
+      "code": "sk",
+      "dbname": "skwiktionary",
+      "url": "https://sk.wiktionary.org",
+      "langName": "slovenčina",
+      "dir": "ltr"
+    },
+    {
+      "code": "skr",
+      "dbname": "skrwiktionary",
+      "url": "https://skr.wiktionary.org",
+      "langName": "سرائیکی",
+      "dir": "rtl"
+    },
+    {
+      "code": "sl",
+      "dbname": "slwiktionary",
+      "url": "https://sl.wiktionary.org",
+      "langName": "slovenščina",
+      "dir": "ltr"
+    },
+    {
+      "code": "sm",
+      "dbname": "smwiktionary",
+      "url": "https://sm.wiktionary.org",
+      "langName": "Gagana Samoa",
+      "dir": "ltr"
+    },
+    {
+      "code": "so",
+      "dbname": "sowiktionary",
+      "url": "https://so.wiktionary.org",
+      "langName": "Soomaaliga",
+      "dir": "ltr"
+    },
+    {
+      "code": "sq",
+      "dbname": "sqwiktionary",
+      "url": "https://sq.wiktionary.org",
+      "langName": "shqip",
+      "dir": "ltr"
+    },
+    {
+      "code": "sr",
+      "dbname": "srwiktionary",
+      "url": "https://sr.wiktionary.org",
+      "langName": "српски / srpski",
+      "dir": "ltr"
+    },
+    {
+      "code": "ss",
+      "dbname": "sswiktionary",
+      "url": "https://ss.wiktionary.org",
+      "langName": "SiSwati",
+      "dir": "ltr"
+    },
+    {
+      "code": "st",
+      "dbname": "stwiktionary",
+      "url": "https://st.wiktionary.org",
+      "langName": "Sesotho",
+      "dir": "ltr"
+    },
+    {
+      "code": "su",
+      "dbname": "suwiktionary",
+      "url": "https://su.wiktionary.org",
+      "langName": "Sunda",
+      "dir": "ltr"
+    },
+    {
+      "code": "sv",
+      "dbname": "svwiktionary",
+      "url": "https://sv.wiktionary.org",
+      "langName": "svenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "sw",
+      "dbname": "swwiktionary",
+      "url": "https://sw.wiktionary.org",
+      "langName": "Kiswahili",
+      "dir": "ltr"
+    },
+    {
+      "code": "ta",
+      "dbname": "tawiktionary",
+      "url": "https://ta.wiktionary.org",
+      "langName": "தமிழ்",
+      "dir": "ltr"
+    },
+    {
+      "code": "te",
+      "dbname": "tewiktionary",
+      "url": "https://te.wiktionary.org",
+      "langName": "తెలుగు",
+      "dir": "ltr"
+    },
+    {
+      "code": "tg",
+      "dbname": "tgwiktionary",
+      "url": "https://tg.wiktionary.org",
+      "langName": "тоҷикӣ",
+      "dir": "ltr"
+    },
+    {
+      "code": "th",
+      "dbname": "thwiktionary",
+      "url": "https://th.wiktionary.org",
+      "langName": "ไทย",
+      "dir": "ltr"
+    },
+    {
+      "code": "ti",
+      "dbname": "tiwiktionary",
+      "url": "https://ti.wiktionary.org",
+      "langName": "ትግርኛ",
+      "dir": "ltr"
+    },
+    {
+      "code": "tk",
+      "dbname": "tkwiktionary",
+      "url": "https://tk.wiktionary.org",
+      "langName": "Türkmençe",
+      "dir": "ltr"
+    },
+    {
+      "code": "tl",
+      "dbname": "tlwiktionary",
+      "url": "https://tl.wiktionary.org",
+      "langName": "Tagalog",
+      "dir": "ltr"
+    },
+    {
+      "code": "tn",
+      "dbname": "tnwiktionary",
+      "url": "https://tn.wiktionary.org",
+      "langName": "Setswana",
+      "dir": "ltr"
+    },
+    {
+      "code": "tpi",
+      "dbname": "tpiwiktionary",
+      "url": "https://tpi.wiktionary.org",
+      "langName": "Tok Pisin",
+      "dir": "ltr"
+    },
+    {
+      "code": "tr",
+      "dbname": "trwiktionary",
+      "url": "https://tr.wiktionary.org",
+      "langName": "Türkçe",
+      "dir": "ltr"
+    },
+    {
+      "code": "ts",
+      "dbname": "tswiktionary",
+      "url": "https://ts.wiktionary.org",
+      "langName": "Xitsonga",
+      "dir": "ltr"
+    },
+    {
+      "code": "tt",
+      "dbname": "ttwiktionary",
+      "url": "https://tt.wiktionary.org",
+      "langName": "татарча/tatarça",
+      "dir": "ltr"
+    },
+    {
+      "code": "ug",
+      "dbname": "ugwiktionary",
+      "url": "https://ug.wiktionary.org",
+      "langName": "ئۇيغۇرچە / Uyghurche",
+      "dir": "rtl"
+    },
+    {
+      "code": "uk",
+      "dbname": "ukwiktionary",
+      "url": "https://uk.wiktionary.org",
+      "langName": "українська",
+      "dir": "ltr"
+    },
+    {
+      "code": "ur",
+      "dbname": "urwiktionary",
+      "url": "https://ur.wiktionary.org",
+      "langName": "اردو",
+      "dir": "rtl"
+    },
+    {
+      "code": "uz",
+      "dbname": "uzwiktionary",
+      "url": "https://uz.wiktionary.org",
+      "langName": "oʻzbekcha/ўзбекча",
+      "dir": "ltr"
+    },
+    {
+      "code": "vec",
+      "dbname": "vecwiktionary",
+      "url": "https://vec.wiktionary.org",
+      "langName": "vèneto",
+      "dir": "ltr"
+    },
+    {
+      "code": "vi",
+      "dbname": "viwiktionary",
+      "url": "https://vi.wiktionary.org",
+      "langName": "Tiếng Việt",
+      "dir": "ltr"
+    },
+    {
+      "code": "vo",
+      "dbname": "vowiktionary",
+      "url": "https://vo.wiktionary.org",
+      "langName": "Volapük",
+      "dir": "ltr"
+    },
+    {
+      "code": "wa",
+      "dbname": "wawiktionary",
+      "url": "https://wa.wiktionary.org",
+      "langName": "walon",
+      "dir": "ltr"
+    },
+    {
+      "code": "wo",
+      "dbname": "wowiktionary",
+      "url": "https://wo.wiktionary.org",
+      "langName": "Wolof",
+      "dir": "ltr"
+    },
+    {
+      "code": "yi",
+      "dbname": "yiwiktionary",
+      "url": "https://yi.wiktionary.org",
+      "langName": "ייִדיש",
+      "dir": "rtl"
+    },
+    {
+      "code": "yue",
+      "dbname": "yuewiktionary",
+      "url": "https://yue.wiktionary.org",
+      "langName": "粵語",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh",
+      "dbname": "zhwiktionary",
+      "url": "https://zh.wiktionary.org",
+      "langName": "中文",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh-min-nan",
+      "dbname": "zh_min_nanwiktionary",
+      "url": "https://zh-min-nan.wiktionary.org",
+      "langName": "Bân-lâm-gú",
+      "dir": "ltr"
+    },
+    {
+      "code": "zu",
+      "dbname": "zuwiktionary",
+      "url": "https://zu.wiktionary.org",
+      "langName": "isiZulu",
+      "dir": "ltr"
+    }
+  ],
+  "wikibooks": [
+    {
+      "code": "af",
+      "dbname": "afwikibooks",
+      "url": "https://af.wikibooks.org",
+      "langName": "Afrikaans",
+      "dir": "ltr"
+    },
+    {
+      "code": "ar",
+      "dbname": "arwikibooks",
+      "url": "https://ar.wikibooks.org",
+      "langName": "العربية",
+      "dir": "rtl"
+    },
+    {
+      "code": "az",
+      "dbname": "azwikibooks",
+      "url": "https://az.wikibooks.org",
+      "langName": "azərbaycanca",
+      "dir": "ltr"
+    },
+    {
+      "code": "ba",
+      "dbname": "bawikibooks",
+      "url": "https://ba.wikibooks.org",
+      "langName": "башҡортса",
+      "dir": "ltr"
+    },
+    {
+      "code": "be",
+      "dbname": "bewikibooks",
+      "url": "https://be.wikibooks.org",
+      "langName": "беларуская",
+      "dir": "ltr"
+    },
+    {
+      "code": "bg",
+      "dbname": "bgwikibooks",
+      "url": "https://bg.wikibooks.org",
+      "langName": "български",
+      "dir": "ltr"
+    },
+    {
+      "code": "bn",
+      "dbname": "bnwikibooks",
+      "url": "https://bn.wikibooks.org",
+      "langName": "বাংলা",
+      "dir": "ltr"
+    },
+    {
+      "code": "bs",
+      "dbname": "bswikibooks",
+      "url": "https://bs.wikibooks.org",
+      "langName": "bosanski",
+      "dir": "ltr"
+    },
+    {
+      "code": "ca",
+      "dbname": "cawikibooks",
+      "url": "https://ca.wikibooks.org",
+      "langName": "català",
+      "dir": "ltr"
+    },
+    {
+      "code": "cs",
+      "dbname": "cswikibooks",
+      "url": "https://cs.wikibooks.org",
+      "langName": "čeština",
+      "dir": "ltr"
+    },
+    {
+      "code": "cv",
+      "dbname": "cvwikibooks",
+      "url": "https://cv.wikibooks.org",
+      "langName": "Чӑвашла",
+      "dir": "ltr"
+    },
+    {
+      "code": "cy",
+      "dbname": "cywikibooks",
+      "url": "https://cy.wikibooks.org",
+      "langName": "Cymraeg",
+      "dir": "ltr"
+    },
+    {
+      "code": "da",
+      "dbname": "dawikibooks",
+      "url": "https://da.wikibooks.org",
+      "langName": "dansk",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "dbname": "dewikibooks",
+      "url": "https://de.wikibooks.org",
+      "langName": "Deutsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "el",
+      "dbname": "elwikibooks",
+      "url": "https://el.wikibooks.org",
+      "langName": "Ελληνικά",
+      "dir": "ltr"
+    },
+    {
+      "code": "en",
+      "dbname": "enwikibooks",
+      "url": "https://en.wikibooks.org",
+      "langName": "English",
+      "dir": "ltr"
+    },
+    {
+      "code": "eo",
+      "dbname": "eowikibooks",
+      "url": "https://eo.wikibooks.org",
+      "langName": "Esperanto",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "dbname": "eswikibooks",
+      "url": "https://es.wikibooks.org",
+      "langName": "español",
+      "dir": "ltr"
+    },
+    {
+      "code": "et",
+      "dbname": "etwikibooks",
+      "url": "https://et.wikibooks.org",
+      "langName": "eesti",
+      "dir": "ltr"
+    },
+    {
+      "code": "eu",
+      "dbname": "euwikibooks",
+      "url": "https://eu.wikibooks.org",
+      "langName": "euskara",
+      "dir": "ltr"
+    },
+    {
+      "code": "fa",
+      "dbname": "fawikibooks",
+      "url": "https://fa.wikibooks.org",
+      "langName": "فارسی",
+      "dir": "rtl"
+    },
+    {
+      "code": "fi",
+      "dbname": "fiwikibooks",
+      "url": "https://fi.wikibooks.org",
+      "langName": "suomi",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "dbname": "frwikibooks",
+      "url": "https://fr.wikibooks.org",
+      "langName": "français",
+      "dir": "ltr"
+    },
+    {
+      "code": "fy",
+      "dbname": "fywikibooks",
+      "url": "https://fy.wikibooks.org",
+      "langName": "Frysk",
+      "dir": "ltr"
+    },
+    {
+      "code": "gl",
+      "dbname": "glwikibooks",
+      "url": "https://gl.wikibooks.org",
+      "langName": "galego",
+      "dir": "ltr"
+    },
+    {
+      "code": "he",
+      "dbname": "hewikibooks",
+      "url": "https://he.wikibooks.org",
+      "langName": "עברית",
+      "dir": "rtl"
+    },
+    {
+      "code": "hi",
+      "dbname": "hiwikibooks",
+      "url": "https://hi.wikibooks.org",
+      "langName": "हिन्दी",
+      "dir": "ltr"
+    },
+    {
+      "code": "hr",
+      "dbname": "hrwikibooks",
+      "url": "https://hr.wikibooks.org",
+      "langName": "hrvatski",
+      "dir": "ltr"
+    },
+    {
+      "code": "hu",
+      "dbname": "huwikibooks",
+      "url": "https://hu.wikibooks.org",
+      "langName": "magyar",
+      "dir": "ltr"
+    },
+    {
+      "code": "hy",
+      "dbname": "hywikibooks",
+      "url": "https://hy.wikibooks.org",
+      "langName": "հայերեն",
+      "dir": "ltr"
+    },
+    {
+      "code": "ia",
+      "dbname": "iawikibooks",
+      "url": "https://ia.wikibooks.org",
+      "langName": "interlingua",
+      "dir": "ltr"
+    },
+    {
+      "code": "id",
+      "dbname": "idwikibooks",
+      "url": "https://id.wikibooks.org",
+      "langName": "Bahasa Indonesia",
+      "dir": "ltr"
+    },
+    {
+      "code": "is",
+      "dbname": "iswikibooks",
+      "url": "https://is.wikibooks.org",
+      "langName": "íslenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "it",
+      "dbname": "itwikibooks",
+      "url": "https://it.wikibooks.org",
+      "langName": "italiano",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "dbname": "jawikibooks",
+      "url": "https://ja.wikibooks.org",
+      "langName": "日本語",
+      "dir": "ltr"
+    },
+    {
+      "code": "ka",
+      "dbname": "kawikibooks",
+      "url": "https://ka.wikibooks.org",
+      "langName": "ქართული",
+      "dir": "ltr"
+    },
+    {
+      "code": "kk",
+      "dbname": "kkwikibooks",
+      "url": "https://kk.wikibooks.org",
+      "langName": "қазақша",
+      "dir": "ltr"
+    },
+    {
+      "code": "km",
+      "dbname": "kmwikibooks",
+      "url": "https://km.wikibooks.org",
+      "langName": "ភាសាខ្មែរ",
+      "dir": "ltr"
+    },
+    {
+      "code": "ko",
+      "dbname": "kowikibooks",
+      "url": "https://ko.wikibooks.org",
+      "langName": "한국어",
+      "dir": "ltr"
+    },
+    {
+      "code": "ku",
+      "dbname": "kuwikibooks",
+      "url": "https://ku.wikibooks.org",
+      "langName": "kurdî",
+      "dir": "ltr"
+    },
+    {
+      "code": "ky",
+      "dbname": "kywikibooks",
+      "url": "https://ky.wikibooks.org",
+      "langName": "Кыргызча",
+      "dir": "ltr"
+    },
+    {
+      "code": "la",
+      "dbname": "lawikibooks",
+      "url": "https://la.wikibooks.org",
+      "langName": "Latina",
+      "dir": "ltr"
+    },
+    {
+      "code": "li",
+      "dbname": "liwikibooks",
+      "url": "https://li.wikibooks.org",
+      "langName": "Limburgs",
+      "dir": "ltr"
+    },
+    {
+      "code": "lt",
+      "dbname": "ltwikibooks",
+      "url": "https://lt.wikibooks.org",
+      "langName": "lietuvių",
+      "dir": "ltr"
+    },
+    {
+      "code": "mg",
+      "dbname": "mgwikibooks",
+      "url": "https://mg.wikibooks.org",
+      "langName": "Malagasy",
+      "dir": "ltr"
+    },
+    {
+      "code": "mk",
+      "dbname": "mkwikibooks",
+      "url": "https://mk.wikibooks.org",
+      "langName": "македонски",
+      "dir": "ltr"
+    },
+    {
+      "code": "ml",
+      "dbname": "mlwikibooks",
+      "url": "https://ml.wikibooks.org",
+      "langName": "മലയാളം",
+      "dir": "ltr"
+    },
+    {
+      "code": "mr",
+      "dbname": "mrwikibooks",
+      "url": "https://mr.wikibooks.org",
+      "langName": "मराठी",
+      "dir": "ltr"
+    },
+    {
+      "code": "ms",
+      "dbname": "mswikibooks",
+      "url": "https://ms.wikibooks.org",
+      "langName": "Bahasa Melayu",
+      "dir": "ltr"
+    },
+    {
+      "code": "ne",
+      "dbname": "newikibooks",
+      "url": "https://ne.wikibooks.org",
+      "langName": "नेपाली",
+      "dir": "ltr"
+    },
+    {
+      "code": "nl",
+      "dbname": "nlwikibooks",
+      "url": "https://nl.wikibooks.org",
+      "langName": "Nederlands",
+      "dir": "ltr"
+    },
+    {
+      "code": "no",
+      "dbname": "nowikibooks",
+      "url": "https://no.wikibooks.org",
+      "langName": "norsk",
+      "dir": "ltr"
+    },
+    {
+      "code": "oc",
+      "dbname": "ocwikibooks",
+      "url": "https://oc.wikibooks.org",
+      "langName": "occitan",
+      "dir": "ltr"
+    },
+    {
+      "code": "pa",
+      "dbname": "pawikibooks",
+      "url": "https://pa.wikibooks.org",
+      "langName": "ਪੰਜਾਬੀ",
+      "dir": "ltr"
+    },
+    {
+      "code": "pl",
+      "dbname": "plwikibooks",
+      "url": "https://pl.wikibooks.org",
+      "langName": "polski",
+      "dir": "ltr"
+    },
+    {
+      "code": "pt",
+      "dbname": "ptwikibooks",
+      "url": "https://pt.wikibooks.org",
+      "langName": "português",
+      "dir": "ltr"
+    },
+    {
+      "code": "ro",
+      "dbname": "rowikibooks",
+      "url": "https://ro.wikibooks.org",
+      "langName": "română",
+      "dir": "ltr"
+    },
+    {
+      "code": "ru",
+      "dbname": "ruwikibooks",
+      "url": "https://ru.wikibooks.org",
+      "langName": "русский",
+      "dir": "ltr"
+    },
+    {
+      "code": "sa",
+      "dbname": "sawikibooks",
+      "url": "https://sa.wikibooks.org",
+      "langName": "संस्कृतम्",
+      "dir": "ltr"
+    },
+    {
+      "code": "si",
+      "dbname": "siwikibooks",
+      "url": "https://si.wikibooks.org",
+      "langName": "සිංහල",
+      "dir": "ltr"
+    },
+    {
+      "code": "sk",
+      "dbname": "skwikibooks",
+      "url": "https://sk.wikibooks.org",
+      "langName": "slovenčina",
+      "dir": "ltr"
+    },
+    {
+      "code": "sl",
+      "dbname": "slwikibooks",
+      "url": "https://sl.wikibooks.org",
+      "langName": "slovenščina",
+      "dir": "ltr"
+    },
+    {
+      "code": "sq",
+      "dbname": "sqwikibooks",
+      "url": "https://sq.wikibooks.org",
+      "langName": "shqip",
+      "dir": "ltr"
+    },
+    {
+      "code": "sr",
+      "dbname": "srwikibooks",
+      "url": "https://sr.wikibooks.org",
+      "langName": "српски / srpski",
+      "dir": "ltr"
+    },
+    {
+      "code": "sv",
+      "dbname": "svwikibooks",
+      "url": "https://sv.wikibooks.org",
+      "langName": "svenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "ta",
+      "dbname": "tawikibooks",
+      "url": "https://ta.wikibooks.org",
+      "langName": "தமிழ்",
+      "dir": "ltr"
+    },
+    {
+      "code": "te",
+      "dbname": "tewikibooks",
+      "url": "https://te.wikibooks.org",
+      "langName": "తెలుగు",
+      "dir": "ltr"
+    },
+    {
+      "code": "tg",
+      "dbname": "tgwikibooks",
+      "url": "https://tg.wikibooks.org",
+      "langName": "тоҷикӣ",
+      "dir": "ltr"
+    },
+    {
+      "code": "th",
+      "dbname": "thwikibooks",
+      "url": "https://th.wikibooks.org",
+      "langName": "ไทย",
+      "dir": "ltr"
+    },
+    {
+      "code": "tl",
+      "dbname": "tlwikibooks",
+      "url": "https://tl.wikibooks.org",
+      "langName": "Tagalog",
+      "dir": "ltr"
+    },
+    {
+      "code": "tr",
+      "dbname": "trwikibooks",
+      "url": "https://tr.wikibooks.org",
+      "langName": "Türkçe",
+      "dir": "ltr"
+    },
+    {
+      "code": "tt",
+      "dbname": "ttwikibooks",
+      "url": "https://tt.wikibooks.org",
+      "langName": "татарча/tatarça",
+      "dir": "ltr"
+    },
+    {
+      "code": "uk",
+      "dbname": "ukwikibooks",
+      "url": "https://uk.wikibooks.org",
+      "langName": "українська",
+      "dir": "ltr"
+    },
+    {
+      "code": "ur",
+      "dbname": "urwikibooks",
+      "url": "https://ur.wikibooks.org",
+      "langName": "اردو",
+      "dir": "rtl"
+    },
+    {
+      "code": "vi",
+      "dbname": "viwikibooks",
+      "url": "https://vi.wikibooks.org",
+      "langName": "Tiếng Việt",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh",
+      "dbname": "zhwikibooks",
+      "url": "https://zh.wikibooks.org",
+      "langName": "中文",
+      "dir": "ltr"
+    }
+  ],
+  "wikiquote": [
+    {
+      "code": "af",
+      "dbname": "afwikiquote",
+      "url": "https://af.wikiquote.org",
+      "langName": "Afrikaans",
+      "dir": "ltr"
+    },
+    {
+      "code": "ar",
+      "dbname": "arwikiquote",
+      "url": "https://ar.wikiquote.org",
+      "langName": "العربية",
+      "dir": "rtl"
+    },
+    {
+      "code": "az",
+      "dbname": "azwikiquote",
+      "url": "https://az.wikiquote.org",
+      "langName": "azərbaycanca",
+      "dir": "ltr"
+    },
+    {
+      "code": "be",
+      "dbname": "bewikiquote",
+      "url": "https://be.wikiquote.org",
+      "langName": "беларуская",
+      "dir": "ltr"
+    },
+    {
+      "code": "bg",
+      "dbname": "bgwikiquote",
+      "url": "https://bg.wikiquote.org",
+      "langName": "български",
+      "dir": "ltr"
+    },
+    {
+      "code": "br",
+      "dbname": "brwikiquote",
+      "url": "https://br.wikiquote.org",
+      "langName": "brezhoneg",
+      "dir": "ltr"
+    },
+    {
+      "code": "bs",
+      "dbname": "bswikiquote",
+      "url": "https://bs.wikiquote.org",
+      "langName": "bosanski",
+      "dir": "ltr"
+    },
+    {
+      "code": "ca",
+      "dbname": "cawikiquote",
+      "url": "https://ca.wikiquote.org",
+      "langName": "català",
+      "dir": "ltr"
+    },
+    {
+      "code": "cs",
+      "dbname": "cswikiquote",
+      "url": "https://cs.wikiquote.org",
+      "langName": "čeština",
+      "dir": "ltr"
+    },
+    {
+      "code": "cy",
+      "dbname": "cywikiquote",
+      "url": "https://cy.wikiquote.org",
+      "langName": "Cymraeg",
+      "dir": "ltr"
+    },
+    {
+      "code": "da",
+      "dbname": "dawikiquote",
+      "url": "https://da.wikiquote.org",
+      "langName": "dansk",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "dbname": "dewikiquote",
+      "url": "https://de.wikiquote.org",
+      "langName": "Deutsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "el",
+      "dbname": "elwikiquote",
+      "url": "https://el.wikiquote.org",
+      "langName": "Ελληνικά",
+      "dir": "ltr"
+    },
+    {
+      "code": "en",
+      "dbname": "enwikiquote",
+      "url": "https://en.wikiquote.org",
+      "langName": "English",
+      "dir": "ltr"
+    },
+    {
+      "code": "eo",
+      "dbname": "eowikiquote",
+      "url": "https://eo.wikiquote.org",
+      "langName": "Esperanto",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "dbname": "eswikiquote",
+      "url": "https://es.wikiquote.org",
+      "langName": "español",
+      "dir": "ltr"
+    },
+    {
+      "code": "et",
+      "dbname": "etwikiquote",
+      "url": "https://et.wikiquote.org",
+      "langName": "eesti",
+      "dir": "ltr"
+    },
+    {
+      "code": "eu",
+      "dbname": "euwikiquote",
+      "url": "https://eu.wikiquote.org",
+      "langName": "euskara",
+      "dir": "ltr"
+    },
+    {
+      "code": "fa",
+      "dbname": "fawikiquote",
+      "url": "https://fa.wikiquote.org",
+      "langName": "فارسی",
+      "dir": "rtl"
+    },
+    {
+      "code": "fi",
+      "dbname": "fiwikiquote",
+      "url": "https://fi.wikiquote.org",
+      "langName": "suomi",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "dbname": "frwikiquote",
+      "url": "https://fr.wikiquote.org",
+      "langName": "français",
+      "dir": "ltr"
+    },
+    {
+      "code": "gl",
+      "dbname": "glwikiquote",
+      "url": "https://gl.wikiquote.org",
+      "langName": "galego",
+      "dir": "ltr"
+    },
+    {
+      "code": "gu",
+      "dbname": "guwikiquote",
+      "url": "https://gu.wikiquote.org",
+      "langName": "ગુજરાતી",
+      "dir": "ltr"
+    },
+    {
+      "code": "he",
+      "dbname": "hewikiquote",
+      "url": "https://he.wikiquote.org",
+      "langName": "עברית",
+      "dir": "rtl"
+    },
+    {
+      "code": "hi",
+      "dbname": "hiwikiquote",
+      "url": "https://hi.wikiquote.org",
+      "langName": "हिन्दी",
+      "dir": "ltr"
+    },
+    {
+      "code": "hr",
+      "dbname": "hrwikiquote",
+      "url": "https://hr.wikiquote.org",
+      "langName": "hrvatski",
+      "dir": "ltr"
+    },
+    {
+      "code": "hu",
+      "dbname": "huwikiquote",
+      "url": "https://hu.wikiquote.org",
+      "langName": "magyar",
+      "dir": "ltr"
+    },
+    {
+      "code": "hy",
+      "dbname": "hywikiquote",
+      "url": "https://hy.wikiquote.org",
+      "langName": "հայերեն",
+      "dir": "ltr"
+    },
+    {
+      "code": "id",
+      "dbname": "idwikiquote",
+      "url": "https://id.wikiquote.org",
+      "langName": "Bahasa Indonesia",
+      "dir": "ltr"
+    },
+    {
+      "code": "is",
+      "dbname": "iswikiquote",
+      "url": "https://is.wikiquote.org",
+      "langName": "íslenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "it",
+      "dbname": "itwikiquote",
+      "url": "https://it.wikiquote.org",
+      "langName": "italiano",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "dbname": "jawikiquote",
+      "url": "https://ja.wikiquote.org",
+      "langName": "日本語",
+      "dir": "ltr"
+    },
+    {
+      "code": "ka",
+      "dbname": "kawikiquote",
+      "url": "https://ka.wikiquote.org",
+      "langName": "ქართული",
+      "dir": "ltr"
+    },
+    {
+      "code": "kn",
+      "dbname": "knwikiquote",
+      "url": "https://kn.wikiquote.org",
+      "langName": "ಕನ್ನಡ",
+      "dir": "ltr"
+    },
+    {
+      "code": "ko",
+      "dbname": "kowikiquote",
+      "url": "https://ko.wikiquote.org",
+      "langName": "한국어",
+      "dir": "ltr"
+    },
+    {
+      "code": "ku",
+      "dbname": "kuwikiquote",
+      "url": "https://ku.wikiquote.org",
+      "langName": "kurdî",
+      "dir": "ltr"
+    },
+    {
+      "code": "ky",
+      "dbname": "kywikiquote",
+      "url": "https://ky.wikiquote.org",
+      "langName": "Кыргызча",
+      "dir": "ltr"
+    },
+    {
+      "code": "la",
+      "dbname": "lawikiquote",
+      "url": "https://la.wikiquote.org",
+      "langName": "Latina",
+      "dir": "ltr"
+    },
+    {
+      "code": "li",
+      "dbname": "liwikiquote",
+      "url": "https://li.wikiquote.org",
+      "langName": "Limburgs",
+      "dir": "ltr"
+    },
+    {
+      "code": "lt",
+      "dbname": "ltwikiquote",
+      "url": "https://lt.wikiquote.org",
+      "langName": "lietuvių",
+      "dir": "ltr"
+    },
+    {
+      "code": "ml",
+      "dbname": "mlwikiquote",
+      "url": "https://ml.wikiquote.org",
+      "langName": "മലയാളം",
+      "dir": "ltr"
+    },
+    {
+      "code": "mr",
+      "dbname": "mrwikiquote",
+      "url": "https://mr.wikiquote.org",
+      "langName": "मराठी",
+      "dir": "ltr"
+    },
+    {
+      "code": "nl",
+      "dbname": "nlwikiquote",
+      "url": "https://nl.wikiquote.org",
+      "langName": "Nederlands",
+      "dir": "ltr"
+    },
+    {
+      "code": "nn",
+      "dbname": "nnwikiquote",
+      "url": "https://nn.wikiquote.org",
+      "langName": "norsk nynorsk",
+      "dir": "ltr"
+    },
+    {
+      "code": "no",
+      "dbname": "nowikiquote",
+      "url": "https://no.wikiquote.org",
+      "langName": "norsk",
+      "dir": "ltr"
+    },
+    {
+      "code": "pl",
+      "dbname": "plwikiquote",
+      "url": "https://pl.wikiquote.org",
+      "langName": "polski",
+      "dir": "ltr"
+    },
+    {
+      "code": "pt",
+      "dbname": "ptwikiquote",
+      "url": "https://pt.wikiquote.org",
+      "langName": "português",
+      "dir": "ltr"
+    },
+    {
+      "code": "ro",
+      "dbname": "rowikiquote",
+      "url": "https://ro.wikiquote.org",
+      "langName": "română",
+      "dir": "ltr"
+    },
+    {
+      "code": "ru",
+      "dbname": "ruwikiquote",
+      "url": "https://ru.wikiquote.org",
+      "langName": "русский",
+      "dir": "ltr"
+    },
+    {
+      "code": "sa",
+      "dbname": "sawikiquote",
+      "url": "https://sa.wikiquote.org",
+      "langName": "संस्कृतम्",
+      "dir": "ltr"
+    },
+    {
+      "code": "sah",
+      "dbname": "sahwikiquote",
+      "url": "https://sah.wikiquote.org",
+      "langName": "саха тыла",
+      "dir": "ltr"
+    },
+    {
+      "code": "sk",
+      "dbname": "skwikiquote",
+      "url": "https://sk.wikiquote.org",
+      "langName": "slovenčina",
+      "dir": "ltr"
+    },
+    {
+      "code": "sl",
+      "dbname": "slwikiquote",
+      "url": "https://sl.wikiquote.org",
+      "langName": "slovenščina",
+      "dir": "ltr"
+    },
+    {
+      "code": "sq",
+      "dbname": "sqwikiquote",
+      "url": "https://sq.wikiquote.org",
+      "langName": "shqip",
+      "dir": "ltr"
+    },
+    {
+      "code": "sr",
+      "dbname": "srwikiquote",
+      "url": "https://sr.wikiquote.org",
+      "langName": "српски / srpski",
+      "dir": "ltr"
+    },
+    {
+      "code": "su",
+      "dbname": "suwikiquote",
+      "url": "https://su.wikiquote.org",
+      "langName": "Sunda",
+      "dir": "ltr"
+    },
+    {
+      "code": "sv",
+      "dbname": "svwikiquote",
+      "url": "https://sv.wikiquote.org",
+      "langName": "svenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "ta",
+      "dbname": "tawikiquote",
+      "url": "https://ta.wikiquote.org",
+      "langName": "தமிழ்",
+      "dir": "ltr"
+    },
+    {
+      "code": "te",
+      "dbname": "tewikiquote",
+      "url": "https://te.wikiquote.org",
+      "langName": "తెలుగు",
+      "dir": "ltr"
+    },
+    {
+      "code": "th",
+      "dbname": "thwikiquote",
+      "url": "https://th.wikiquote.org",
+      "langName": "ไทย",
+      "dir": "ltr"
+    },
+    {
+      "code": "tr",
+      "dbname": "trwikiquote",
+      "url": "https://tr.wikiquote.org",
+      "langName": "Türkçe",
+      "dir": "ltr"
+    },
+    {
+      "code": "uk",
+      "dbname": "ukwikiquote",
+      "url": "https://uk.wikiquote.org",
+      "langName": "українська",
+      "dir": "ltr"
+    },
+    {
+      "code": "ur",
+      "dbname": "urwikiquote",
+      "url": "https://ur.wikiquote.org",
+      "langName": "اردو",
+      "dir": "rtl"
+    },
+    {
+      "code": "uz",
+      "dbname": "uzwikiquote",
+      "url": "https://uz.wikiquote.org",
+      "langName": "oʻzbekcha/ўзбекча",
+      "dir": "ltr"
+    },
+    {
+      "code": "vi",
+      "dbname": "viwikiquote",
+      "url": "https://vi.wikiquote.org",
+      "langName": "Tiếng Việt",
+      "dir": "ltr"
+    },
+    {
+      "code": "wo",
+      "dbname": "wowikiquote",
+      "url": "https://wo.wikiquote.org",
+      "langName": "Wolof",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh",
+      "dbname": "zhwikiquote",
+      "url": "https://zh.wikiquote.org",
+      "langName": "中文",
+      "dir": "ltr"
+    }
+  ],
+  "wikisource": [
+    {
+      "code": "ar",
+      "dbname": "arwikisource",
+      "url": "https://ar.wikisource.org",
+      "langName": "العربية",
+      "dir": "rtl"
+    },
+    {
+      "code": "as",
+      "dbname": "aswikisource",
+      "url": "https://as.wikisource.org",
+      "langName": "অসমীয়া",
+      "dir": "ltr"
+    },
+    {
+      "code": "az",
+      "dbname": "azwikisource",
+      "url": "https://az.wikisource.org",
+      "langName": "azərbaycanca",
+      "dir": "ltr"
+    },
+    {
+      "code": "be",
+      "dbname": "bewikisource",
+      "url": "https://be.wikisource.org",
+      "langName": "беларуская",
+      "dir": "ltr"
+    },
+    {
+      "code": "bg",
+      "dbname": "bgwikisource",
+      "url": "https://bg.wikisource.org",
+      "langName": "български",
+      "dir": "ltr"
+    },
+    {
+      "code": "bn",
+      "dbname": "bnwikisource",
+      "url": "https://bn.wikisource.org",
+      "langName": "বাংলা",
+      "dir": "ltr"
+    },
+    {
+      "code": "br",
+      "dbname": "brwikisource",
+      "url": "https://br.wikisource.org",
+      "langName": "brezhoneg",
+      "dir": "ltr"
+    },
+    {
+      "code": "bs",
+      "dbname": "bswikisource",
+      "url": "https://bs.wikisource.org",
+      "langName": "bosanski",
+      "dir": "ltr"
+    },
+    {
+      "code": "ca",
+      "dbname": "cawikisource",
+      "url": "https://ca.wikisource.org",
+      "langName": "català",
+      "dir": "ltr"
+    },
+    {
+      "code": "cs",
+      "dbname": "cswikisource",
+      "url": "https://cs.wikisource.org",
+      "langName": "čeština",
+      "dir": "ltr"
+    },
+    {
+      "code": "cy",
+      "dbname": "cywikisource",
+      "url": "https://cy.wikisource.org",
+      "langName": "Cymraeg",
+      "dir": "ltr"
+    },
+    {
+      "code": "da",
+      "dbname": "dawikisource",
+      "url": "https://da.wikisource.org",
+      "langName": "dansk",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "dbname": "dewikisource",
+      "url": "https://de.wikisource.org",
+      "langName": "Deutsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "el",
+      "dbname": "elwikisource",
+      "url": "https://el.wikisource.org",
+      "langName": "Ελληνικά",
+      "dir": "ltr"
+    },
+    {
+      "code": "en",
+      "dbname": "enwikisource",
+      "url": "https://en.wikisource.org",
+      "langName": "English",
+      "dir": "ltr"
+    },
+    {
+      "code": "eo",
+      "dbname": "eowikisource",
+      "url": "https://eo.wikisource.org",
+      "langName": "Esperanto",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "dbname": "eswikisource",
+      "url": "https://es.wikisource.org",
+      "langName": "español",
+      "dir": "ltr"
+    },
+    {
+      "code": "et",
+      "dbname": "etwikisource",
+      "url": "https://et.wikisource.org",
+      "langName": "eesti",
+      "dir": "ltr"
+    },
+    {
+      "code": "eu",
+      "dbname": "euwikisource",
+      "url": "https://eu.wikisource.org",
+      "langName": "euskara",
+      "dir": "ltr"
+    },
+    {
+      "code": "fa",
+      "dbname": "fawikisource",
+      "url": "https://fa.wikisource.org",
+      "langName": "فارسی",
+      "dir": "rtl"
+    },
+    {
+      "code": "fi",
+      "dbname": "fiwikisource",
+      "url": "https://fi.wikisource.org",
+      "langName": "suomi",
+      "dir": "ltr"
+    },
+    {
+      "code": "fo",
+      "dbname": "fowikisource",
+      "url": "https://fo.wikisource.org",
+      "langName": "føroyskt",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "dbname": "frwikisource",
+      "url": "https://fr.wikisource.org",
+      "langName": "français",
+      "dir": "ltr"
+    },
+    {
+      "code": "gl",
+      "dbname": "glwikisource",
+      "url": "https://gl.wikisource.org",
+      "langName": "galego",
+      "dir": "ltr"
+    },
+    {
+      "code": "gu",
+      "dbname": "guwikisource",
+      "url": "https://gu.wikisource.org",
+      "langName": "ગુજરાતી",
+      "dir": "ltr"
+    },
+    {
+      "code": "he",
+      "dbname": "hewikisource",
+      "url": "https://he.wikisource.org",
+      "langName": "עברית",
+      "dir": "rtl"
+    },
+    {
+      "code": "hi",
+      "dbname": "hiwikisource",
+      "url": "https://hi.wikisource.org",
+      "langName": "हिन्दी",
+      "dir": "ltr"
+    },
+    {
+      "code": "hr",
+      "dbname": "hrwikisource",
+      "url": "https://hr.wikisource.org",
+      "langName": "hrvatski",
+      "dir": "ltr"
+    },
+    {
+      "code": "hu",
+      "dbname": "huwikisource",
+      "url": "https://hu.wikisource.org",
+      "langName": "magyar",
+      "dir": "ltr"
+    },
+    {
+      "code": "hy",
+      "dbname": "hywikisource",
+      "url": "https://hy.wikisource.org",
+      "langName": "հայերեն",
+      "dir": "ltr"
+    },
+    {
+      "code": "id",
+      "dbname": "idwikisource",
+      "url": "https://id.wikisource.org",
+      "langName": "Bahasa Indonesia",
+      "dir": "ltr"
+    },
+    {
+      "code": "is",
+      "dbname": "iswikisource",
+      "url": "https://is.wikisource.org",
+      "langName": "íslenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "it",
+      "dbname": "itwikisource",
+      "url": "https://it.wikisource.org",
+      "langName": "italiano",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "dbname": "jawikisource",
+      "url": "https://ja.wikisource.org",
+      "langName": "日本語",
+      "dir": "ltr"
+    },
+    {
+      "code": "kn",
+      "dbname": "knwikisource",
+      "url": "https://kn.wikisource.org",
+      "langName": "ಕನ್ನಡ",
+      "dir": "ltr"
+    },
+    {
+      "code": "ko",
+      "dbname": "kowikisource",
+      "url": "https://ko.wikisource.org",
+      "langName": "한국어",
+      "dir": "ltr"
+    },
+    {
+      "code": "la",
+      "dbname": "lawikisource",
+      "url": "https://la.wikisource.org",
+      "langName": "Latina",
+      "dir": "ltr"
+    },
+    {
+      "code": "li",
+      "dbname": "liwikisource",
+      "url": "https://li.wikisource.org",
+      "langName": "Limburgs",
+      "dir": "ltr"
+    },
+    {
+      "code": "lij",
+      "dbname": "lijwikisource",
+      "url": "https://lij.wikisource.org",
+      "langName": "Ligure",
+      "dir": "ltr"
+    },
+    {
+      "code": "lt",
+      "dbname": "ltwikisource",
+      "url": "https://lt.wikisource.org",
+      "langName": "lietuvių",
+      "dir": "ltr"
+    },
+    {
+      "code": "mk",
+      "dbname": "mkwikisource",
+      "url": "https://mk.wikisource.org",
+      "langName": "македонски",
+      "dir": "ltr"
+    },
+    {
+      "code": "ml",
+      "dbname": "mlwikisource",
+      "url": "https://ml.wikisource.org",
+      "langName": "മലയാളം",
+      "dir": "ltr"
+    },
+    {
+      "code": "mr",
+      "dbname": "mrwikisource",
+      "url": "https://mr.wikisource.org",
+      "langName": "मराठी",
+      "dir": "ltr"
+    },
+    {
+      "code": "nap",
+      "dbname": "napwikisource",
+      "url": "https://nap.wikisource.org",
+      "langName": "Napulitano",
+      "dir": "ltr"
+    },
+    {
+      "code": "nl",
+      "dbname": "nlwikisource",
+      "url": "https://nl.wikisource.org",
+      "langName": "Nederlands",
+      "dir": "ltr"
+    },
+    {
+      "code": "no",
+      "dbname": "nowikisource",
+      "url": "https://no.wikisource.org",
+      "langName": "norsk",
+      "dir": "ltr"
+    },
+    {
+      "code": "or",
+      "dbname": "orwikisource",
+      "url": "https://or.wikisource.org",
+      "langName": "ଓଡ଼ିଆ",
+      "dir": "ltr"
+    },
+    {
+      "code": "pa",
+      "dbname": "pawikisource",
+      "url": "https://pa.wikisource.org",
+      "langName": "ਪੰਜਾਬੀ",
+      "dir": "ltr"
+    },
+    {
+      "code": "pl",
+      "dbname": "plwikisource",
+      "url": "https://pl.wikisource.org",
+      "langName": "polski",
+      "dir": "ltr"
+    },
+    {
+      "code": "pms",
+      "dbname": "pmswikisource",
+      "url": "https://pms.wikisource.org",
+      "langName": "Piemontèis",
+      "dir": "ltr"
+    },
+    {
+      "code": "pt",
+      "dbname": "ptwikisource",
+      "url": "https://pt.wikisource.org",
+      "langName": "português",
+      "dir": "ltr"
+    },
+    {
+      "code": "ro",
+      "dbname": "rowikisource",
+      "url": "https://ro.wikisource.org",
+      "langName": "română",
+      "dir": "ltr"
+    },
+    {
+      "code": "ru",
+      "dbname": "ruwikisource",
+      "url": "https://ru.wikisource.org",
+      "langName": "русский",
+      "dir": "ltr"
+    },
+    {
+      "code": "sa",
+      "dbname": "sawikisource",
+      "url": "https://sa.wikisource.org",
+      "langName": "संस्कृतम्",
+      "dir": "ltr"
+    },
+    {
+      "code": "sah",
+      "dbname": "sahwikisource",
+      "url": "https://sah.wikisource.org",
+      "langName": "саха тыла",
+      "dir": "ltr"
+    },
+    {
+      "code": "sk",
+      "dbname": "skwikisource",
+      "url": "https://sk.wikisource.org",
+      "langName": "slovenčina",
+      "dir": "ltr"
+    },
+    {
+      "code": "sl",
+      "dbname": "slwikisource",
+      "url": "https://sl.wikisource.org",
+      "langName": "slovenščina",
+      "dir": "ltr"
+    },
+    {
+      "code": "sr",
+      "dbname": "srwikisource",
+      "url": "https://sr.wikisource.org",
+      "langName": "српски / srpski",
+      "dir": "ltr"
+    },
+    {
+      "code": "sv",
+      "dbname": "svwikisource",
+      "url": "https://sv.wikisource.org",
+      "langName": "svenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "ta",
+      "dbname": "tawikisource",
+      "url": "https://ta.wikisource.org",
+      "langName": "தமிழ்",
+      "dir": "ltr"
+    },
+    {
+      "code": "te",
+      "dbname": "tewikisource",
+      "url": "https://te.wikisource.org",
+      "langName": "తెలుగు",
+      "dir": "ltr"
+    },
+    {
+      "code": "th",
+      "dbname": "thwikisource",
+      "url": "https://th.wikisource.org",
+      "langName": "ไทย",
+      "dir": "ltr"
+    },
+    {
+      "code": "tr",
+      "dbname": "trwikisource",
+      "url": "https://tr.wikisource.org",
+      "langName": "Türkçe",
+      "dir": "ltr"
+    },
+    {
+      "code": "uk",
+      "dbname": "ukwikisource",
+      "url": "https://uk.wikisource.org",
+      "langName": "українська",
+      "dir": "ltr"
+    },
+    {
+      "code": "vec",
+      "dbname": "vecwikisource",
+      "url": "https://vec.wikisource.org",
+      "langName": "vèneto",
+      "dir": "ltr"
+    },
+    {
+      "code": "vi",
+      "dbname": "viwikisource",
+      "url": "https://vi.wikisource.org",
+      "langName": "Tiếng Việt",
+      "dir": "ltr"
+    },
+    {
+      "code": "wa",
+      "dbname": "wawikisource",
+      "url": "https://wa.wikisource.org",
+      "langName": "walon",
+      "dir": "ltr"
+    },
+    {
+      "code": "yi",
+      "dbname": "yiwikisource",
+      "url": "https://yi.wikisource.org",
+      "langName": "ייִדיש",
+      "dir": "rtl"
+    },
+    {
+      "code": "zh",
+      "dbname": "zhwikisource",
+      "url": "https://zh.wikisource.org",
+      "langName": "中文",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh-min-nan",
+      "dbname": "zh_min_nanwikisource",
+      "url": "https://zh-min-nan.wikisource.org",
+      "langName": "Bân-lâm-gú",
+      "dir": "ltr"
+    }
+  ],
+  "wikinews": [
+    {
+      "code": "ar",
+      "dbname": "arwikinews",
+      "url": "https://ar.wikinews.org",
+      "langName": "العربية",
+      "dir": "rtl"
+    },
+    {
+      "code": "bs",
+      "dbname": "bswikinews",
+      "url": "https://bs.wikinews.org",
+      "langName": "bosanski",
+      "dir": "ltr"
+    },
+    {
+      "code": "ca",
+      "dbname": "cawikinews",
+      "url": "https://ca.wikinews.org",
+      "langName": "català",
+      "dir": "ltr"
+    },
+    {
+      "code": "cs",
+      "dbname": "cswikinews",
+      "url": "https://cs.wikinews.org",
+      "langName": "čeština",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "dbname": "dewikinews",
+      "url": "https://de.wikinews.org",
+      "langName": "Deutsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "el",
+      "dbname": "elwikinews",
+      "url": "https://el.wikinews.org",
+      "langName": "Ελληνικά",
+      "dir": "ltr"
+    },
+    {
+      "code": "en",
+      "dbname": "enwikinews",
+      "url": "https://en.wikinews.org",
+      "langName": "English",
+      "dir": "ltr"
+    },
+    {
+      "code": "eo",
+      "dbname": "eowikinews",
+      "url": "https://eo.wikinews.org",
+      "langName": "Esperanto",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "dbname": "eswikinews",
+      "url": "https://es.wikinews.org",
+      "langName": "español",
+      "dir": "ltr"
+    },
+    {
+      "code": "fa",
+      "dbname": "fawikinews",
+      "url": "https://fa.wikinews.org",
+      "langName": "فارسی",
+      "dir": "rtl"
+    },
+    {
+      "code": "fi",
+      "dbname": "fiwikinews",
+      "url": "https://fi.wikinews.org",
+      "langName": "suomi",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "dbname": "frwikinews",
+      "url": "https://fr.wikinews.org",
+      "langName": "français",
+      "dir": "ltr"
+    },
+    {
+      "code": "he",
+      "dbname": "hewikinews",
+      "url": "https://he.wikinews.org",
+      "langName": "עברית",
+      "dir": "rtl"
+    },
+    {
+      "code": "it",
+      "dbname": "itwikinews",
+      "url": "https://it.wikinews.org",
+      "langName": "italiano",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "dbname": "jawikinews",
+      "url": "https://ja.wikinews.org",
+      "langName": "日本語",
+      "dir": "ltr"
+    },
+    {
+      "code": "ko",
+      "dbname": "kowikinews",
+      "url": "https://ko.wikinews.org",
+      "langName": "한국어",
+      "dir": "ltr"
+    },
+    {
+      "code": "li",
+      "dbname": "liwikinews",
+      "url": "https://li.wikinews.org",
+      "langName": "Limburgs",
+      "dir": "ltr"
+    },
+    {
+      "code": "nl",
+      "dbname": "nlwikinews",
+      "url": "https://nl.wikinews.org",
+      "langName": "Nederlands",
+      "dir": "ltr"
+    },
+    {
+      "code": "no",
+      "dbname": "nowikinews",
+      "url": "https://no.wikinews.org",
+      "langName": "norsk",
+      "dir": "ltr"
+    },
+    {
+      "code": "pl",
+      "dbname": "plwikinews",
+      "url": "https://pl.wikinews.org",
+      "langName": "polski",
+      "dir": "ltr"
+    },
+    {
+      "code": "pt",
+      "dbname": "ptwikinews",
+      "url": "https://pt.wikinews.org",
+      "langName": "português",
+      "dir": "ltr"
+    },
+    {
+      "code": "ro",
+      "dbname": "rowikinews",
+      "url": "https://ro.wikinews.org",
+      "langName": "română",
+      "dir": "ltr"
+    },
+    {
+      "code": "ru",
+      "dbname": "ruwikinews",
+      "url": "https://ru.wikinews.org",
+      "langName": "русский",
+      "dir": "ltr"
+    },
+    {
+      "code": "sq",
+      "dbname": "sqwikinews",
+      "url": "https://sq.wikinews.org",
+      "langName": "shqip",
+      "dir": "ltr"
+    },
+    {
+      "code": "sr",
+      "dbname": "srwikinews",
+      "url": "https://sr.wikinews.org",
+      "langName": "српски / srpski",
+      "dir": "ltr"
+    },
+    {
+      "code": "sv",
+      "dbname": "svwikinews",
+      "url": "https://sv.wikinews.org",
+      "langName": "svenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "ta",
+      "dbname": "tawikinews",
+      "url": "https://ta.wikinews.org",
+      "langName": "தமிழ்",
+      "dir": "ltr"
+    },
+    {
+      "code": "uk",
+      "dbname": "ukwikinews",
+      "url": "https://uk.wikinews.org",
+      "langName": "українська",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh",
+      "dbname": "zhwikinews",
+      "url": "https://zh.wikinews.org",
+      "langName": "中文",
+      "dir": "ltr"
+    }
+  ],
+  "wikiversity": [
+    {
+      "code": "ar",
+      "dbname": "arwikiversity",
+      "url": "https://ar.wikiversity.org",
+      "langName": "العربية",
+      "dir": "rtl"
+    },
+    {
+      "code": "cs",
+      "dbname": "cswikiversity",
+      "url": "https://cs.wikiversity.org",
+      "langName": "čeština",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "dbname": "dewikiversity",
+      "url": "https://de.wikiversity.org",
+      "langName": "Deutsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "el",
+      "dbname": "elwikiversity",
+      "url": "https://el.wikiversity.org",
+      "langName": "Ελληνικά",
+      "dir": "ltr"
+    },
+    {
+      "code": "en",
+      "dbname": "enwikiversity",
+      "url": "https://en.wikiversity.org",
+      "langName": "English",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "dbname": "eswikiversity",
+      "url": "https://es.wikiversity.org",
+      "langName": "español",
+      "dir": "ltr"
+    },
+    {
+      "code": "fi",
+      "dbname": "fiwikiversity",
+      "url": "https://fi.wikiversity.org",
+      "langName": "suomi",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "dbname": "frwikiversity",
+      "url": "https://fr.wikiversity.org",
+      "langName": "français",
+      "dir": "ltr"
+    },
+    {
+      "code": "hi",
+      "dbname": "hiwikiversity",
+      "url": "https://hi.wikiversity.org",
+      "langName": "हिन्दी",
+      "dir": "ltr"
+    },
+    {
+      "code": "it",
+      "dbname": "itwikiversity",
+      "url": "https://it.wikiversity.org",
+      "langName": "italiano",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "dbname": "jawikiversity",
+      "url": "https://ja.wikiversity.org",
+      "langName": "日本語",
+      "dir": "ltr"
+    },
+    {
+      "code": "ko",
+      "dbname": "kowikiversity",
+      "url": "https://ko.wikiversity.org",
+      "langName": "한국어",
+      "dir": "ltr"
+    },
+    {
+      "code": "pt",
+      "dbname": "ptwikiversity",
+      "url": "https://pt.wikiversity.org",
+      "langName": "português",
+      "dir": "ltr"
+    },
+    {
+      "code": "ru",
+      "dbname": "ruwikiversity",
+      "url": "https://ru.wikiversity.org",
+      "langName": "русский",
+      "dir": "ltr"
+    },
+    {
+      "code": "sl",
+      "dbname": "slwikiversity",
+      "url": "https://sl.wikiversity.org",
+      "langName": "slovenščina",
+      "dir": "ltr"
+    },
+    {
+      "code": "sv",
+      "dbname": "svwikiversity",
+      "url": "https://sv.wikiversity.org",
+      "langName": "svenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh",
+      "dbname": "zhwikiversity",
+      "url": "https://zh.wikiversity.org",
+      "langName": "中文",
+      "dir": "ltr"
+    }
+  ],
+  "wikivoyage": [
+    {
+      "code": "bn",
+      "dbname": "bnwikivoyage",
+      "url": "https://bn.wikivoyage.org",
+      "langName": "বাংলা",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "dbname": "dewikivoyage",
+      "url": "https://de.wikivoyage.org",
+      "langName": "Deutsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "el",
+      "dbname": "elwikivoyage",
+      "url": "https://el.wikivoyage.org",
+      "langName": "Ελληνικά",
+      "dir": "ltr"
+    },
+    {
+      "code": "en",
+      "dbname": "enwikivoyage",
+      "url": "https://en.wikivoyage.org",
+      "langName": "English",
+      "dir": "ltr"
+    },
+    {
+      "code": "eo",
+      "dbname": "eowikivoyage",
+      "url": "https://eo.wikivoyage.org",
+      "langName": "Esperanto",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "dbname": "eswikivoyage",
+      "url": "https://es.wikivoyage.org",
+      "langName": "español",
+      "dir": "ltr"
+    },
+    {
+      "code": "fa",
+      "dbname": "fawikivoyage",
+      "url": "https://fa.wikivoyage.org",
+      "langName": "فارسی",
+      "dir": "rtl"
+    },
+    {
+      "code": "fi",
+      "dbname": "fiwikivoyage",
+      "url": "https://fi.wikivoyage.org",
+      "langName": "suomi",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "dbname": "frwikivoyage",
+      "url": "https://fr.wikivoyage.org",
+      "langName": "français",
+      "dir": "ltr"
+    },
+    {
+      "code": "he",
+      "dbname": "hewikivoyage",
+      "url": "https://he.wikivoyage.org",
+      "langName": "עברית",
+      "dir": "rtl"
+    },
+    {
+      "code": "hi",
+      "dbname": "hiwikivoyage",
+      "url": "https://hi.wikivoyage.org",
+      "langName": "हिन्दी",
+      "dir": "ltr"
+    },
+    {
+      "code": "it",
+      "dbname": "itwikivoyage",
+      "url": "https://it.wikivoyage.org",
+      "langName": "italiano",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "dbname": "jawikivoyage",
+      "url": "https://ja.wikivoyage.org",
+      "langName": "日本語",
+      "dir": "ltr"
+    },
+    {
+      "code": "nl",
+      "dbname": "nlwikivoyage",
+      "url": "https://nl.wikivoyage.org",
+      "langName": "Nederlands",
+      "dir": "ltr"
+    },
+    {
+      "code": "pl",
+      "dbname": "plwikivoyage",
+      "url": "https://pl.wikivoyage.org",
+      "langName": "polski",
+      "dir": "ltr"
+    },
+    {
+      "code": "ps",
+      "dbname": "pswikivoyage",
+      "url": "https://ps.wikivoyage.org",
+      "langName": "پښتو",
+      "dir": "rtl"
+    },
+    {
+      "code": "pt",
+      "dbname": "ptwikivoyage",
+      "url": "https://pt.wikivoyage.org",
+      "langName": "português",
+      "dir": "ltr"
+    },
+    {
+      "code": "ro",
+      "dbname": "rowikivoyage",
+      "url": "https://ro.wikivoyage.org",
+      "langName": "română",
+      "dir": "ltr"
+    },
+    {
+      "code": "ru",
+      "dbname": "ruwikivoyage",
+      "url": "https://ru.wikivoyage.org",
+      "langName": "русский",
+      "dir": "ltr"
+    },
+    {
+      "code": "sv",
+      "dbname": "svwikivoyage",
+      "url": "https://sv.wikivoyage.org",
+      "langName": "svenska",
+      "dir": "ltr"
+    },
+    {
+      "code": "tr",
+      "dbname": "trwikivoyage",
+      "url": "https://tr.wikivoyage.org",
+      "langName": "Türkçe",
+      "dir": "ltr"
+    },
+    {
+      "code": "uk",
+      "dbname": "ukwikivoyage",
+      "url": "https://uk.wikivoyage.org",
+      "langName": "українська",
+      "dir": "ltr"
+    },
+    {
+      "code": "vi",
+      "dbname": "viwikivoyage",
+      "url": "https://vi.wikivoyage.org",
+      "langName": "Tiếng Việt",
+      "dir": "ltr"
+    },
+    {
+      "code": "zh",
+      "dbname": "zhwikivoyage",
+      "url": "https://zh.wikivoyage.org",
+      "langName": "中文",
+      "dir": "ltr"
+    }
+  ]
+}

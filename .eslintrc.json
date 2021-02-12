@@ -1,0 +1,13 @@
+{
+	"extends": "wikimedia/server",
+	"root": true,
+    "plugins": ["jest"],
+	"globals": {
+		"mw": true
+	},
+    "env": {
+        "browser": false,
+        "node": true,
+        "jest/globals": true
+    }
+}

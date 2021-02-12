@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mynor Archila"
+		]
+	},
+	"language-name": "Kaqchikel",
+	"language-name-romanized-sorted": "Kaqchikel",
+	"app-links": {
+		"title": "Ruqasaxik la Wikipetya’ richin Android, richin iOS"
+	},
+	"wiki": {
+		"entries": "tzijonibʼälaʼ"
+	},
+	"wiktionary": {
+		"name": "Wiksoltzij",
+		"slogan": "Ri alaj soltzij"
+	},
+	"wikibooks": {
+		"slogan": "Chojchoj rusikʼiwuj tzʼibʼatzijaʼ",
+		"entries": "ruxaqiʼ"
+	},
+	"wikiquote": {
+		"entries": "tzijonibʼälaʼ"
+	},
+	"wikisource": {
+		"slogan": "Chojchoj wujibʼäl"
+	}
+}

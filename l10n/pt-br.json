@@ -1,0 +1,83 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Cristofer Alves",
+			"Eduardo Addad de Oliveira",
+			"Macofe",
+			"TheEduGobi"
+		]
+	},
+	"language-button-text": "Ler a Wikipédia no seu idioma",
+	"footer-description": "A Wikipédia é hospedada pela Fundação Wikimedia, uma organização sem fins lucrativos que também hospeda uma gama de outros projetos.",
+	"app-links": {
+		"title": "Faça o download da Wikipedia para Android ou iOS",
+		"description": "Salve seus artigos favoritos para ler offline, sincronize suas listas de leitura entre dispositivos e personalize sua experiência de leitura com o aplicativo oficial da Wikipédia.",
+		"url": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications"
+	},
+	"license": "Esta página está disponível sob a <a href='https://creativecommons.org/licenses/by-sa/3.0/'>licença Creative Commons Attribution-ShareAlike</a>",
+	"terms": "Termo de uso",
+	"Privacy Policy": "Política de Privacidade",
+	"terms-link": "https://meta.wikimedia.org/wiki/Privacy_policy/pt-br",
+	"privacy-policy-link": "https://meta.wikimedia.org/wiki/Privacy_policy/pt-br",
+	"search-input-button": "Pesquisar",
+	"search-input-label": "Pesquisar na Wikipédia",
+	"wiki": {
+		"name": "Wikipédia",
+		"slogan": "A enciclopédia livre",
+		"entries": "artigos"
+	},
+	"wiktionary": {
+		"name": "Wikcionário",
+		"slogan": "O dicionário livre",
+		"entries": "entradas"
+	},
+	"wikibooks": {
+		"name": "Wikilivros",
+		"slogan": "Livros didáticos livres",
+		"entries": "páginas"
+	},
+	"wikinews": {
+		"name": "Wikinotícias",
+		"slogan": "A fonte de notícias livres",
+		"entries": "artigos"
+	},
+	"wikiquote": {
+		"name": "Wikiquote",
+		"slogan": "Coletânea de citações livres",
+		"entries": "artigos"
+	},
+	"wikisource": {
+		"name": "Wikisource",
+		"slogan": "A biblioteca livre"
+	},
+	"wikiversity": {
+		"name": "Wikiversidade",
+		"slogan": "Materiais educativos livres",
+		"entries": "recursos de aprendizagem"
+	},
+	"wikivoyage": {
+		"name": "Wikivoyage",
+		"slogan": "O guia de viagens livre"
+	},
+	"commons": {
+		"name": "Commons",
+		"slogan": "Multimídia livre"
+	},
+	"wikispecies": {
+		"name": "Wikispecies",
+		"slogan": "O diretório de espécies livre"
+	},
+	"wikidata": {
+		"name": "Wikidata",
+		"slogan": "A base de conhecimento livre"
+	},
+	"mediawiki": {
+		"name": "MediaWiki",
+		"slogan": "A aplicação wiki livre"
+	},
+	"metawiki": {
+		"name": "Meta-Wiki",
+		"slogan": "Coordenação e documentação comunitária"
+	}
+}

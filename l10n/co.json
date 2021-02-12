@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jumpy01"
+		]
+	},
+	"language-name": "Corsu",
+	"terms": "Clause d'usu",
+	"wiki": {
+		"name": "Wikipedia",
+		"slogan": "Enciclopedia libera",
+		"entries": "articuli"
+	},
+	"wiktionary": {
+		"name": "Wikiziunariu"
+	},
+	"commons": {
+		"name": "Commons"
+	},
+	"wikispecies": {
+		"name": "Wikispecies"
+	},
+	"wikidata": {
+		"name": "Wikidata"
+	},
+	"mediawiki": {
+		"name": "MediaWiki"
+	},
+	"metawiki": {
+		"name": "Meta-Wiki"
+	}
+}

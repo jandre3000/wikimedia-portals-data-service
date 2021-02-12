@@ -1,0 +1,77 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ерней",
+			"Ильнар"
+		]
+	},
+	"language-button-text": "Википедияне үз телегездә укыгыз",
+	"footer-description": "Википедия Викимедиа Фонды — тиҗарәт булмаган оешма — серверларында урнашкан, ул шулай ук башка проектларның эшен тәэмин итә.",
+	"app-links": {
+		"title": "Андроид яки iOS өчен Википедияне күчереп алу",
+		"url": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications"
+	},
+	"license": "Әлеге битне <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike лицензиясе</a> нигезендә файдаланырга мөмкин",
+	"terms": "Куллану шартлары",
+	"Privacy Policy": "Яшеренлек сәясәте",
+	"search-input-button": "Эзләү",
+	"search-input-label": "Википедиядә эзләү",
+	"wiki": {
+		"name": "Википедия",
+		"slogan": "Ирекле энциклопедия",
+		"entries": "мәкалә"
+	},
+	"wiktionary": {
+		"name": "Викисүзлек",
+		"slogan": "Ирекле сүзлек",
+		"entries": "мәкалә"
+	},
+	"wikibooks": {
+		"name": "Викикитап",
+		"slogan": "Ирекле дәреслекләр",
+		"entries": "бит"
+	},
+	"wikinews": {
+		"name": "Викияңалыклар",
+		"slogan": "Ирекле яңалыклар чыганагы",
+		"entries": "мәкалә"
+	},
+	"wikiquote": {
+		"name": "Викиөзек",
+		"slogan": "Ирекле өзекләр җыентыгы",
+		"entries": "мәкалә"
+	},
+	"wikisource": {
+		"name": "Викиханә",
+		"slogan": "Ирекле китапханә"
+	},
+	"wikiversity": {
+		"name": "Викиверситет",
+		"slogan": "Ирекле өйрәнү белешмәләре",
+		"entries": "укылган чыганак"
+	},
+	"wikivoyage": {
+		"name": "Викисәяхәт",
+		"slogan": "Юл күрсәткече"
+	},
+	"commons": {
+		"name": "Викиҗыентык",
+		"slogan": "Ирекле куллануда булган фотосурәтләр һәм башка бик күп нәрсә"
+	},
+	"wikispecies": {
+		"name": "Викитөрләр",
+		"slogan": "Ирекле төрләр җыентыгы"
+	},
+	"wikidata": {
+		"name": "Викимәгълүмат",
+		"slogan": "Ирекле белем җыелмасы"
+	},
+	"mediawiki": {
+		"name": "Медиавики",
+		"slogan": "Ирекле һәм бушлай викикушымта"
+	},
+	"metawiki": {
+		"name": "Мета-вики",
+		"slogan": "Җәмгыять эше белән идарә итү"
+	}
+}

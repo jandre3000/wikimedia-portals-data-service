@@ -1,0 +1,80 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"ToJack",
+			"Vashgird"
+		]
+	},
+	"language-name": "Тоҷикӣ",
+	"language-name-romanized": "Tojiki",
+	"language-button-text": "Википедиаро ба забоно худ хонед",
+	"footer-description": "Википедия аз тарафи Фонди Википедия идора мешавад.",
+	"app-links": {
+		"title": "Барномаҳои Википедия акнун  дастрас ҳастанд бо:"
+	},
+	"license": "Ин саҳиф таҳти <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">иҷозатномаи Creative Commons Attribution-ShareAlike</a> дастрас аст",
+	"terms": "Шартҳои истифодабарӣ",
+	"Privacy Policy": "Сиёсати ҳифзи асрор",
+	"privacy-policy-link": "https://meta.wikimedia.org/wiki/Privacy_policy/tg",
+	"search-input-button": "Ҷустуҷӯ",
+	"search-input-label": "Ҷустуҷӯи Википедия",
+	"wiki": {
+		"name": "Википедия",
+		"slogan": "Донишномаи Озод",
+		"entries": "мақолаҳо"
+	},
+	"wiktionary": {
+		"name": "Викилуғат",
+		"slogan": "Луғати озод",
+		"entries": "вурудот"
+	},
+	"wikibooks": {
+		"name": "Викикитоб",
+		"slogan": "Маводи китобии озод",
+		"entries": "саҳифаҳо"
+	},
+	"wikinews": {
+		"name": "Викиахбор",
+		"slogan": "Манбаи озоди хабарҳо",
+		"entries": "мақолаҳо"
+	},
+	"wikiquote": {
+		"name": "Викииқтибос",
+		"slogan": "Гуфтаҳои зиёди озод",
+		"entries": "мақолаҳо"
+	},
+	"wikisource": {
+		"name": "Викитека",
+		"slogan": "Китобхонаи ройгон"
+	},
+	"wikiversity": {
+		"name": "Викидонишгоҳ",
+		"slogan": "Маводи озод",
+		"entries": "маводҳои дарсӣ"
+	},
+	"wikivoyage": {
+		"name": "Викисафар",
+		"slogan": "Раҳбалади озод"
+	},
+	"commons": {
+		"name": "Викианбор",
+		"slogan": "Акс ва дигар чизҳои истифодашавандаи озод"
+	},
+	"wikispecies": {
+		"name": "Викинамуд",
+		"slogan": "Роҳнамои намудҳои биологӣ"
+	},
+	"wikidata": {
+		"name": "Викидода",
+		"slogan": "Базаи озоди додаҳо"
+	},
+	"mediawiki": {
+		"name": "Медиавики",
+		"slogan": "Барномаи озод ва кушодаи вики"
+	},
+	"metawiki": {
+		"name": "Фаро-вики",
+		"slogan": "Координатсия ва ҳуҷҷатҳои ҷомеа"
+	}
+}

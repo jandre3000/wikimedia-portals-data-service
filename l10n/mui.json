@@ -1,0 +1,76 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jawadywn",
+			"Masjawad99"
+		]
+	},
+	"language-button-text": "Baco Wikipédia ngan baso Dulur",
+	"footer-description": "Wikipédia ini begawé lantak Wikimédia Foundation, organisasi nirlaba yang jugo nggawéke betébék proyék laén.",
+	"app-links": {
+		"title": "App Wikipédia mak ini elah ado:"
+	},
+	"license": "Laman ini ado di jero <a href='https://creativecommons.org/licenses/by-sa/3.0/'>Creative Commons Attribution-ShareAlike License</a>",
+	"terms": "Aturan Pemakian",
+	"Privacy Policy": "Kebijakan Privasi",
+	"search-input-button": "Cari",
+	"search-input-label": "Cari Wikipédia",
+	"wiki": {
+		"name": "Wikipédia",
+		"slogan": "Ensiklopédi peréi",
+		"entries": "artikel"
+	},
+	"wiktionary": {
+		"name": "Wikikamus",
+		"slogan": "Kamus peréi",
+		"entries": "éntri"
+	},
+	"wikibooks": {
+		"name": "Wikibuku",
+		"slogan": "Buku peréi",
+		"entries": "laman"
+	},
+	"wikinews": {
+		"name": "Wikikabar",
+		"slogan": "Kabar peréi",
+		"entries": "artikel"
+	},
+	"wikiquote": {
+		"name": "Wikisadur",
+		"slogan": "Kumpulan saduran peréi",
+		"entries": "artikel"
+	},
+	"wikisource": {
+		"name": "Wikisumber",
+		"slogan": "Perpustakaan peréi"
+	},
+	"wikiversity": {
+		"name": "Wikiversitas",
+		"slogan": "Bahan pelajaran peréi",
+		"entries": "sumber dayo pembelajaran"
+	},
+	"wikivoyage": {
+		"name": "Wikiwisato",
+		"slogan": "Situs pelancongan peréi"
+	},
+	"commons": {
+		"name": "Commons",
+		"slogan": "Poto peréi & laennyo"
+	},
+	"wikispecies": {
+		"name": "Wikispesies",
+		"slogan": "Petunjuk spesies peréi"
+	},
+	"wikidata": {
+		"name": "Wikidata",
+		"slogan": "Basis élmu peréi"
+	},
+	"mediawiki": {
+		"name": "MédiaWiki",
+		"slogan": "Aplikasi wiki peréi & tebukak"
+	},
+	"metawiki": {
+		"name": "Méta-Wiki",
+		"slogan": "Koordinasi komunitas & dokumentasi"
+	}
+}

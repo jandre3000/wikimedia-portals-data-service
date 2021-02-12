@@ -1,0 +1,70 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Balyozxane",
+			"Cûndûllah el-Kurdî",
+			"George Animal",
+			"Guherto"
+		]
+	},
+	"language-name": "Îngilîzî",
+	"language-name-romanized": "Îngilîzî",
+	"language-name-romanized-sorted": "Îngilîzî",
+	"language-button-text": "Wîkîpediyayê bi zimanê xwe bixwîne",
+	"app-links": {
+		"title": "Wîkîpediya ji bo Android û iOSê daxe:"
+	},
+	"terms": "Mercên Bikaranînê",
+	"Privacy Policy": "Rêbaza Veşarîtî",
+	"terms-link": "https://meta.wikimedia.org/wiki/Terms_of_use/ku",
+	"search-input-button": "Bigere",
+	"search-input-label": "Li Wîkîpediyayê bigere",
+	"wiki": {
+		"name": "Wîkîpediya",
+		"slogan": "Ensîklopediya Azad",
+		"entries": "gotar"
+	},
+	"wiktionary": {
+		"name": "Wîkîferheng",
+		"slogan": "Ferhenga azad",
+		"entries": "encam"
+	},
+	"wikibooks": {
+		"name": "Wîkîpirtûk",
+		"slogan": "Pirtûkên azad",
+		"entries": "rûpel"
+	},
+	"wikinews": {
+		"name": "Wîkînûçe",
+		"slogan": "Çavkaniya nûçeyan ya azad",
+		"entries": "gotar"
+	},
+	"wikiquote": {
+		"name": "Wîkîgotin",
+		"entries": "gotar"
+	},
+	"wikisource": {
+		"name": "Wîkîçavkanî",
+		"slogan": "Pirtûkxaneya azad"
+	},
+	"wikiversity": {
+		"name": "Wîkîzanîngeh"
+	},
+	"wikivoyage": {
+		"name": "Wîkîger"
+	},
+	"commons": {
+		"name": "Commons"
+	},
+	"wikidata": {
+		"name": "Wîkîdane"
+	},
+	"mediawiki": {
+		"name": "MediaWiki",
+		"slogan": "Bernameya wîkiye ya azad û vekirî"
+	},
+	"metawiki": {
+		"name": "Meta-Wîkî"
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manik Soren",
+			"Ramjit Tudu"
+		]
+	},
+	"language-button-text": "ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤᱛᱮ ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ ᱯᱟᱲᱦᱟᱣᱢᱮ",
+	"footer-description": "ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ ᱫᱚ ᱣᱤᱠᱤᱢᱤᱰᱤᱭᱟ ᱵᱩᱱᱭᱟᱫᱽᱻᱮ ᱪᱟᱞᱟᱣ ᱟᱹᱜᱩᱭᱮᱫᱻᱟ,ᱢᱤᱫ ᱵᱤᱱ-ᱞᱟᱵᱟᱱ ᱜᱟᱶᱛᱟ ᱠᱟᱱᱟ ᱚᱱᱟ ᱥᱟᱶᱛᱮ ᱮᱴᱟᱜ ᱯᱨᱚᱡᱮᱠᱴ ᱠᱚᱦᱚᱸᱭ ᱪᱟᱞᱟᱣ ᱟᱜᱩᱭᱮᱫᱼᱟ᱾",
+	"app-links": {
+		"title": "ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ ᱮᱯᱥ ᱫᱚ ᱱᱤᱛᱚᱜ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱜᱮᱭᱟᱺ"
+	},
+	"wiki": {
+		"name": "ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ",
+		"entries": "ᱚᱱᱚᱞᱠᱚ"
+	},
+	"wiktionary": {
+		"name": "ᱣᱤᱠᱤᱥᱚᱱᱟᱨᱤ"
+	},
+	"wikibooks": {
+		"name": "ᱣᱤᱠᱤᱯᱚᱛᱚᱵ",
+		"entries": "ᱥᱟᱦᱴᱟᱠᱚ"
+	},
+	"wikinews": {
+		"name": "ᱣᱤᱠᱤᱠᱷᱚᱵᱚᱨ",
+		"entries": "ᱚᱱᱚᱞᱠᱚ"
+	},
+	"wikiquote": {
+		"name": "ᱣᱤᱠᱤᱠᱩᱣᱚᱴ",
+		"entries": "ᱚᱱᱚᱞᱠᱚ"
+	},
+	"wikisource": {
+		"name": "ᱣᱤᱠᱤᱯᱷᱮᱰᱟᱛ"
+	},
+	"wikiversity": {
+		"name": "ᱣᱤᱠᱤᱵᱷᱟᱨᱥᱤᱴᱤ"
+	},
+	"wikivoyage": {
+		"name": "ᱣᱤᱠᱤᱵᱷᱚᱭᱮᱡᱽ"
+	},
+	"wikispecies": {
+		"name": "ᱣᱤᱠᱤᱮᱥᱯᱮᱥᱤᱥ"
+	},
+	"wikidata": {
+		"name": "ᱣᱤᱠᱤᱰᱮᱴᱟ"
+	},
+	"mediawiki": {
+		"name": "ᱢᱤᱰᱤᱭᱟᱣᱤᱠᱤ"
+	},
+	"metawiki": {
+		"name": "ᱢᱮᱴᱟ-ᱣᱤᱠᱤ"
+	}
+}
